@@ -11,14 +11,22 @@
 
 ## 네트워크 400번대 에러의 종류
 
+처리해본 에러는 밑줄을 그어보았다.
+
 - 400 - Bad Request
 - 401 - Unauthorized
 - 402 - Payment Required
 - 403 - Forbidden
 - 404 - Not Found
-- 405 - Method Not Allowd
+- 405 - Method Not Allowed
+- 406 - Not Acceptable
+- 407 - Proxy Authentication Required
+	- 401과 유사하지만, Proxy가 인증을 해야한다는 점이 다르다.
+- 408 -Request Timeout
+	- 서버가 클라이언트 요청을 오랫동안 받지 못하는 경우 서버가 연결을 끊는다.
+- 409 - Conflict
+	- 서버의 현재 상태와 충돌할 때 발생한다. 이미 존재하는 리소스를 생성하려고 할때, 이미 삭제된 리소스를 수정하려고 할때, 동시 수정을 진행할 때
 - 
-
 
 ## QUESTIONS
 
