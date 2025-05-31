@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
+                "file": "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-skeleton-vs-spinner"
+              "title": "path-to-a-clean-react-architecture-series"
+            }
+          },
+          {
+            "id": "d295e232b6c78095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE-WEB/react/WIP-handling-error.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WIP-handling-error"
             }
           },
           {
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/ui-ux/WIP-error-handling-ui-ux.md",
+                "file": "FE-WEB/react/렌더링을-위한-세가지-phase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-error-handling-ui-ux"
+              "title": "렌더링을-위한-세가지-phase"
             }
           }
         ],
@@ -194,15 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ef706615fbe0bbd",
+  "active": "d295e232b6c78095",
   "lastOpenFiles": [
+    "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
+    "FE-WEB/react/WIP-handling-error.md",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
     "FE-WEB/ui-ux/WIP-error-handling-ui-ux.md",
+    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
     "NETWORK/WIP-http-response-status-code.md",
     "NETWORK/cover-image.png",
     "README.md",
     "FE-WEB/react/error-boundary.md",
-    "FE-WEB/react/Untitled.md",
     "FE-WEB/react/react-vs-react-dom.md",
     "FE-WEB/react/useReducer.md",
     "FE-WEB/react/WIP-colocation.md",
@@ -211,7 +227,6 @@
     "FE-WEB/react/WIP-susepnse.md",
     "FE-WEB/react/WIP-error-handling.md",
     "Untitled.md",
-    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
     "RETROSPECTIVE/short.md",
     "RETROSPECTIVE",
     "SPRING/프로젝트-설정.md",
