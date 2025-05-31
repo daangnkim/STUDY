@@ -92,6 +92,11 @@ class App extends React.Component {
 
 직접 구현도 가능하지만 [bvaughn/react-error-boundary: Simple reusable React error boundary component](https://github.com/bvaughn/react-error-boundary) 패키지를 이용할 수도 있다.
 
+## Error에 따른 핸들링
+
+에러에 대한 핸들링 방법은 크게 몇 가지가 있는 것 같다.
+
+
 ## REFERENCES
 
 - [Error Boundary in React js - DEV Community](https://dev.to/imashwani/error-boundary-in-react-js-1n5o)

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RETROSPECTIVE/short.md",
+                "file": "FE-WEB/react/error-boundary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "short"
+              "title": "error-boundary"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -197,6 +196,16 @@
   },
   "active": "5d20d665c51e7538",
   "lastOpenFiles": [
+    "FE-WEB/react/react-vs-react-dom.md",
+    "FE-WEB/react/useReducer.md",
+    "FE-WEB/react/WIP-colocation.md",
+    "FE-WEB/react/WIP-react-router-dom의_세가지_타입.md",
+    "FE-WEB/react/WIP-react19.md",
+    "FE-WEB/react/WIP-susepnse.md",
+    "FE-WEB/react/WIP-error-handling.md",
+    "Untitled.md",
+    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
+    "FE-WEB/react/error-boundary.md",
     "RETROSPECTIVE/short.md",
     "README.md",
     "RETROSPECTIVE",
