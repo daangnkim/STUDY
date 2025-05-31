@@ -94,10 +94,14 @@ class App extends React.Component {
 
 ## Error에 따른 핸들링
 
-에러에 대한 핸들링 방법은 크게 몇 가지가 있는 것 같다.
+상황별 에러 핸들링 방법은 크게 다음과 같이 구분되는 것 같다.
+
+- 404, fetching error, server error 
 
 
 ## REFERENCES
+
+- [Should I wrap all pages with an error boundary? : r/reactjs](https://www.reddit.com/r/reactjs/comments/15byqcb/should_i_wrap_all_pages_with_an_error_boundary/)
 
 - [Error Boundary in React js - DEV Community](https://dev.to/imashwani/error-boundary-in-react-js-1n5o)
 
