@@ -1,0 +1,1 @@
+abstraction과 implementation을 디커플링한다
