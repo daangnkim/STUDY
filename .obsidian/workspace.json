@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGORITHM/dp-vs-greedy.md",
+                "file": "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,12 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f43e435050e98f40",
+  "active": "277dfbd375bb177d",
   "lastOpenFiles": [
-    "ALGORITHM/Pasted image 20250531174057.png",
+    "ALGORITHM/dp-vs-greedy",
+    "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png",
-    "ALGORITHM/dp-vs-greedy.md",
-    "Untitled",
+    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
     "FE-WEB/react/렌더링을-위한-세가지-phase.md",
     "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
     "FE-WEB/react/WIP-handling-error.md",

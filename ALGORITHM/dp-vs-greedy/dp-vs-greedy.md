@@ -22,7 +22,7 @@ F(4) = F(3) + F(2)
 
 반면 Tabulation은 bottom-up 방식이다. Tabulation은 도표 작성이라는 뜻으로, 이를 이용한 다이나믹 프로그래밍을 table-filling 알고리즘이라고 부르기도 한다. memoization과는 다르게 해답을 구하는 순서를 미리 정해야한다. 예를들면 피보나치에서 a(0)과 a(1)을 먼저 구하여 저장하고(table-filling), 순차(iteration)적으로 a(i) = a(i-1) + a(i-2)를 구한다. 메모리 스택에 대한 걱정이 없고, 함수 호출에 대한 overhead가 없기 때문에 성능적으로 유리하지만, 순서를 미리 정해야하는 단점이 있다.
 
-다이나믹 프로그래밍과 함께 많이 언급되는 것이 탐욕 알고리즘(Greedy Algorithm)이다. 두개의 차이점에 대해서 알아보아야 하는데, 이는 탐욕 알고리즘 목차에서 알아보도록 하자.
+다이나믹 프로그래밍과 함께 많이 언급되는 것이 탐욕 알고리즘(Greedy Algorithm)이다. 아래에서 알아보자.
 
 [programize](https://www.programiz.com/dsa/dynamic-programming)
 [when to use bottom-up DP and when to use top-down DP](https://stackoverflow.com/questions/6164629/what-is-the-difference-between-bottom-up-and-top-down)
