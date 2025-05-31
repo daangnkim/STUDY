@@ -4,9 +4,12 @@
 
 장점을 말하면 다음과 같다.
 
-1. schema와 에러 메세지를 한 곳에서 관리가 가능하다.
-2. ui가 schema(어떤 필드가 어떤 조건을 가지고 있는지)에 대해서 몰라도 된다.
-3. value와 이벤트 핸들러를 일일히 할당하지 않아도 된다.
+1. ui에서 form 필드와 관련한 validaiton 코드가 사라진다.
+	```tsx
+	{errors.email.length < schema.email.maxLength && <ErrorMessage/>}
+	```
+2. value와 이벤트 핸들러를 일일히 할당하지 않아도 된다.
+3. 에러가 있는 필드에 대한 auto focus도 지원된다.
 
 ## 화살표 함수를 쓰느냐 function 키워드를 쓰느냐?
 
