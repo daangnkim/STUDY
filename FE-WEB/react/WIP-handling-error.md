@@ -11,9 +11,9 @@
 
 ## 네트워크 400번대 에러의 종류
 
-처리해본 에러는 밑줄을 그어보았다.
+처리해본 에러는 bold 처리했다.
 
-- 400 - Bad Request
+- 400 - **Bad Request**
 - 401 - Unauthorized
 - 402 - Payment Required
 - 403 - Forbidden
