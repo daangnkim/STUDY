@@ -102,7 +102,7 @@ class App extends React.Component {
 
 ## QUESTIONS
 
-- loader에서도 Error Boundary가 필요한가?
+- loader에서도 Error Boundary가 필요한가? 아니면 일반적인 Error 컴포넌트가 필요한가?
 
 ## REFERENCES
 
