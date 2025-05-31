@@ -1,6 +1,6 @@
 ## class component lifecycle
 
-lifecycle 메서드 관련하여 이미지를 검색해보면 각양각색으로 만들어놓은 이미지들이 나오는데, 리액트 16.3 이후 다음 세 가지 메서드들은 사라졌음을 참고하여 이미지를 찾자.
+lifecycle 메서드 관련하여 이미지를 검색해보면 각양각색으로 만들어놓은 이미지들이 나오는데, 리액트 16.3 이후 다음 세 가지 메서드들은 사라졌음을 참고하여 이미지를 찾자. 몇몇 문서는 설명을 안한다.
 
 1. `componentWillMount`
 2. `componentWillReceiveProps`
@@ -96,8 +96,13 @@ class App extends React.Component {
 
 상황별 에러 핸들링 방법은 크게 다음과 같이 구분되는 것 같다.
 
-- 404, fetching error, server error 
+- 404, fetching error, server error
+- 인증, validation, server error, 폼 제출
+- 이외에 예상하지 못한 에러
 
+## QUESTIONS
+
+- loader에서도 Error Boundary가 필요한가?
 
 ## REFERENCES
 
