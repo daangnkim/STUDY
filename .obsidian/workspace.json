@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/README.md",
+                "file": "ALGORITHM/WIP-floyd-hare-tortoise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "WIP-floyd-hare-tortoise"
             }
           }
         ],
@@ -211,8 +211,12 @@
   },
   "active": "f9b95d8bd491f6b3",
   "lastOpenFiles": [
-    "ALGORITHM/WIP-floyd-hare-tortoise.md",
     "ALGORITHM/problems.md",
+    "DB/cover-image.png",
+    "DB/README.md",
+    "DB/prisma/instructions.md",
+    "ENGLISH/README.md",
+    "ALGORITHM/WIP-floyd-hare-tortoise.md",
     "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
     "ALGORITHM/dp-vs-greedy",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
@@ -238,8 +242,6 @@
     "RETROSPECTIVE/short.md",
     "RETROSPECTIVE",
     "SPRING/프로젝트-설정.md",
-    "SPRING/폴더구조.md",
-    "DESIGN-PATTERN/객체지향-관련-용어.md",
-    "FUNCTIONAL-PROGRAMMING/유인동-함수형-프로그래밍.md"
+    "SPRING/폴더구조.md"
   ]
 }
