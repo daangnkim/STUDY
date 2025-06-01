@@ -36,3 +36,4 @@
 - vessel / 그릇
 - per default = by default / 기본적으로
 - streamline / 간소화하다
+- wrap around / 
