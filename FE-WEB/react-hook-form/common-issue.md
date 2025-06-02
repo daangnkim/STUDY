@@ -59,4 +59,7 @@ schema가 number인 필드에 대해서 Expected number, received string 에러�
 
 1. onChange 이벤트가 발생하면 e.target.value에 접근했을 때 option 태그의 value가 찍힌다.
 2. option 태그는 value를 할당하지 않으면 textContent가 value로 사용된다.
-3. 
+3. 2에 의해서 option 태그의 초기 option에 대한 value를 ""를 설정해야한다.
+4. value를 ""로 설정하게 만들면, url에 query param을 설정할 때 ""를 제외하고 작성해야한다.
+5. value를 ""로 설정하게 만들면, zod schema에서 ""에 대한 허용을 하나하나 적용해줘야한다.
+6. value를 ""로 설정하게 만들면, 
