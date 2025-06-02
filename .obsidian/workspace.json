@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0f5356741c349d6f",
+        "id": "f6be7861801d77d0",
         "type": "tabs",
         "children": [
           {
-            "id": "3d58aaa561d82113",
+            "id": "628098d0c4a562e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "9cd2a9dac8d830f0",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "46f1235608ada6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALGORITHM/problems.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "problems"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,11 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d58aaa561d82113",
+  "active": "46f1235608ada6e6",
   "lastOpenFiles": [
-    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
+    "conflict-files-obsidian-git.md",
     "ALGORITHM/problems.md",
     "ALGORITHM/WIP-floyd-hare-tortoise.md",
+    "FE-WEB/storybook.md",
+    "FE-WEB/react-router-dom/WIP-infinity-scroll.md",
+    "FE-WEB/react-hook-form/common-issue.md",
+    "FE-WEB/react-hook-form",
+    "FE-WEB/javascript/BigInt.md",
+    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
     "DB/cover-image.png",
     "DB/README.md",
     "DB/prisma/instructions.md",
@@ -204,10 +243,6 @@
     "FE-WEB/react/WIP-react-router-dom의_세가지_타입.md",
     "FE-WEB/react/WIP-react19.md",
     "FE-WEB/react/WIP-susepnse.md",
-    "FE-WEB/react/WIP-error-handling.md",
-    "RETROSPECTIVE/short.md",
-    "RETROSPECTIVE",
-    "SPRING/프로젝트-설정.md",
-    "SPRING/폴더구조.md"
+    "RETROSPECTIVE"
   ]
 }
