@@ -54,3 +54,9 @@ schema가 number인 필드에 대해서 Expected number, received string 에러�
 ### watch vs useWatch
 
 [React Hook Form: Understanding watch vs useWatch - DEV Community](https://dev.to/kcsujeet/react-hook-form-understanding-watch-vs-usewatch-l54)
+
+### 초기값으로 ""을 할당하는 것의 문제점
+
+1. onChange 이벤트가 발생하면 e.target.value에 접근했을 때 option 태그의 value가 찍힌다.
+2. option 태그는 value를 할당하지 않으면 textContent가 value로 사용된다.
+3. 
