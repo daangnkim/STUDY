@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+                "file": "FE-WEB/react-router-dom/WIP-picking-mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-infinity-scroll"
+              "title": "WIP-picking-mode"
+            }
+          },
+          {
+            "id": "6bf7298ef4e23f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE-WEB/react-router-dom/WIP-react-router-에대한-평가.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WIP-react-router-에대한-평가"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -166,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cea73b41f61d106",
+  "active": "6bf7298ef4e23f49",
   "lastOpenFiles": [
+    "FE-WEB/react-router-dom/WIP-picking-mode.md",
+    "FE-WEB/react-router-dom/WIP-react-router-에대한-평가.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "FE-WEB/tanstack-query/Untitled.md",
     "FE-WEB/react/WIP-susepnse.md",
@@ -193,7 +213,6 @@
     "conflict-files-obsidian-git.md",
     "ALGORITHM/WIP-floyd-hare-tortoise.md",
     "FE-WEB/storybook.md",
-    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/react-hook-form/common-issue.md",
     "FE-WEB/react-hook-form",
     "FE-WEB/javascript/BigInt.md",
@@ -212,9 +231,7 @@
     "ALGORITHM",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
     "FE-WEB/ui-ux/WIP-error-handling-ui-ux.md",
-    "NETWORK/WIP-http-response-status-code.md",
     "NETWORK/cover-image.png",
-    "README.md",
     "RETROSPECTIVE"
   ]
 }
