@@ -4,7 +4,6 @@
 - 라우팅 라이브러리가 데이터 로딩을 하지 않았으면 좋겠음. 그냥 라우팅 역할만 충실히 해줬으면 좋겠음.
 - major 버전이 바뀔 때마다 breaking change좀 안만들었으면 좋겠음.
 - v3에서 v6으로 버전업을 하는 것이 v4에서 v5보다 버전업을 하는 것 보다 쉬움. v6에서 v7로 버전업 하는 것은 그렇게 어렵지 않았음. (공식문서도 브레이킹 체인지를 의식한듯 v6 - v7 버전업은 브레이킹 체인지 없다고한다)
-- 
 
 
 [Is there any quality React Router v7 guide with Vite SPA yet? : r/reactjs](https://www.reddit.com/r/reactjs/comments/1hco21n/is_there_any_quality_react_router_v7_guide_with/)
