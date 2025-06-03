@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router-dom/WIP-react-router-에대한-평가.md",
+                "file": "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-react-router-에대한-평가"
+              "title": "WIP-skeleton-vs-spinner"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -198,8 +197,9 @@
   },
   "active": "6bf7298ef4e23f49",
   "lastOpenFiles": [
-    "FE-WEB/react-router-dom/WIP-picking-mode.md",
+    "RETROSPECTIVE/short.md",
     "FE-WEB/react-router-dom/WIP-react-router-에대한-평가.md",
+    "FE-WEB/react-router-dom/WIP-picking-mode.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "FE-WEB/tanstack-query/Untitled.md",
@@ -230,7 +230,6 @@
     "FE-WEB/react/Untitled.md",
     "ALGORITHM",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
-    "FE-WEB/ui-ux/WIP-error-handling-ui-ux.md",
     "NETWORK/cover-image.png",
     "RETROSPECTIVE"
   ]
