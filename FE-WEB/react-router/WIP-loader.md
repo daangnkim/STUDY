@@ -37,5 +37,5 @@ route-level data fetching이 가능하게한다. 다만 `data router mode` 내�
 
 
 [React Query meets React Router | TkDodo's blog](https://tkdodo.eu/blog/react-query-meets-react-router)
-
 [What a Data Router/Loader is and why you need it! | Velopack](https://docs.velopack.io/blog/2024/05/24/seemless-router-preloading)
+[Framework Adoption from RouterProvider | React Router](https://reactrouter.com/upgrading/router-provider#prerequisites)
