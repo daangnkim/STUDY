@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
+                "file": "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-skeleton-vs-spinner"
+              "title": "WIP-skeleton-vs-spinner-progressbar"
             }
           }
         ],
@@ -229,7 +229,7 @@
     "FE-WEB/react/WIP-handling-error.md",
     "FE-WEB/react/Untitled.md",
     "ALGORITHM",
-    "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
+    "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
     "NETWORK/cover-image.png",
     "RETROSPECTIVE"
   ]
