@@ -63,3 +63,4 @@ schema가 number인 필드에 대해서 Expected number, received string 에러�
 4. value를 ""로 설정하게 만들면, url에 query param을 설정할 때 ""를 제외하고 작성해야한다.
 5. value를 ""로 설정하게 만들면, zod schema에서 ""에 대한 허용을 하나하나 적용해줘야한다.
 6. value를 ""로 설정하게 만들면, 
+
