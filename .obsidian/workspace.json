@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+                "file": "ETC/intellij.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-infinity-scroll"
+              "title": "intellij"
             }
           }
         ]
@@ -181,11 +181,16 @@
   },
   "active": "7c9f4ea421d342df",
   "lastOpenFiles": [
+    "ETC/obsidian.md",
+    "ETC/커버이미지.png",
+    "ETC/여러-github-계정-세팅.md",
+    "ETC/intellij.md",
+    "ETC/README.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/react-hook-form/common-issue.md",
     "FE-WEB/react-router-dom/WIP-loader.md",
     "FE-WEB/react-router-dom/WIP-infinity-scroll.md",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
-    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/react-router/defer.md",
     "FE-WEB/react-router/WIP-라우팅의-종류.md",
     "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
@@ -209,12 +214,7 @@
     "ALGORITHM/dp-vs-greedy",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png",
-    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
-    "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
-    "FE-WEB/react/WIP-handling-error.md",
-    "FE-WEB/react/Untitled.md",
     "ALGORITHM",
-    "FE-WEB/ui-ux/WIP-skeleton-vs-spinner.md",
     "NETWORK/cover-image.png",
     "RETROSPECTIVE"
   ]
