@@ -1,4 +1,4 @@
-- 창분리 : (CUSTOM) CMD + ㅜOPT + ]
+- 창분리 : (CUSTOM) CMD + OPT + ]
 - 창이동 : Option + Tab
 - 동일한 단어 검색 : CTL + G
 - 동일한 단어 모두 검색 : CTL + CMD + G
