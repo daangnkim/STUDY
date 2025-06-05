@@ -7,4 +7,10 @@ JS 비용은 파싱 비용 + 실행 비용으로 구성된다.
 
 실제로 webpack의 eager 모드는 chunk를 생성하지 않고 한 번에 js를 받아온 뒤 실행은 시키지 않는 옵션이다.
 
+**code spliting의 역설은 작은 앱은 스플리팅할게 별로 없으나, 큰 앱 같은 경우는 복잡하게 얽혀있어 여러 조각으로 나눠도 결국 많은 코드가 로딩된다.** 결국 중요한 것은 나누는 것이 아니라 분리하는 것이다. 그러니까 기술적 구현보다는 아키텍쳐 설계가 더 중요하다.
+
+로딩되는 동안에 스피너를 보여주는 것은 좋지 않다.
+이전 페이지가 보여지는 것은 나쁘지 않다.
+
+
 [✂️ Code splitting - What, When and Why - DEV Community](https://dev.to/thekashey/code-splitting-what-when-and-why-59op)
