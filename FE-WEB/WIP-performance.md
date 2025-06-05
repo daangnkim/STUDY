@@ -11,6 +11,6 @@ JS 비용은 파싱 비용 + 실행 비용으로 구성된다.
 
 로딩되는 동안에 스피너를 보여주는 것은 좋지 않다.
 이전 페이지가 보여지는 것은 나쁘지 않다.
-
+공통 UI는 그대로 두고 컨텐츠만 교체되는것도 좋다.
 
 [✂️ Code splitting - What, When and Why - DEV Community](https://dev.to/thekashey/code-splitting-what-when-and-why-59op)
