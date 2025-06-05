@@ -37,3 +37,4 @@
 - per default = by default / 기본적으로
 - streamline / 간소화하다
 - wrap around / 순환하다.
+- overhyped / 과대 평가된
