@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-auth.md",
+                "file": "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-auth"
+              "title": "WIP-queryClient-메서드"
             }
           },
           {
@@ -208,16 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "277dfbd375bb177d",
+  "active": "89900d28236e639f",
   "lastOpenFiles": [
+    "FE-WEB/tanstack-query/WIP-prefetch.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/WIP-auth.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "FE-WEB/tanstack-query/refetch-관련-옵션.md",
-    "FE-WEB/tanstack-query/WIP-auth.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "ENGLISH/README.md",
     "FE-WEB/html+css/WIP-까다로운-css.md",
     "FE-WEB/html+css/xml-vs-html.md",
