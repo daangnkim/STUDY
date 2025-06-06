@@ -15,6 +15,4 @@ clear는 구독자들을 전부 제거한다.
 
 
 
-
-
 [QueryClient | TanStack Query Docs](https://tanstack.com/query/v5/docs/reference/QueryClient)
