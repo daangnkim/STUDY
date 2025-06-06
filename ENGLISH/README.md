@@ -39,3 +39,4 @@
 - wrap around / 순환하다.
 - overhyped / 과대 평가된
 - clobber / 무효화하다
+- tackle / 문제나 과제에 맞서서 적극적으로 해결하다
