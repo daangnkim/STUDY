@@ -1,4 +1,6 @@
 
+
+
 Header 컴포넌트를 구현한다고 가정해보자.
 
 ##### Monolithic Component
@@ -12,5 +14,10 @@ Header 컴포넌트를 구현한다고 가정해보자.
 
 ##### HOC
 
+
+## QUESTIONS
+
+- 컴포넌트를 나누는 기준은 뭐가 있을까?
+	- 애니메이션을 고려할 수도 있고, 리렌더링을 고려할 수도 있고, 확장성을 고려할 수도 있고...
 
 [Patterns.dev.kr](https://patterns-dev-kr.github.io/)
