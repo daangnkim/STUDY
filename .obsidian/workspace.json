@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5995a715a91a591b",
+        "id": "1b349348b2438547",
         "type": "tabs",
         "children": [
           {
-            "id": "f59ee4bdbcda6590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-WEB/html+css/xml-vs-html.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "xml-vs-html"
-            }
-          },
-          {
-            "id": "89900d28236e639f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-WEB/react/WIP-render-pattern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WIP-render-pattern"
-            }
-          },
-          {
-            "id": "c2d5b7aedc782c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/pandas-문법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pandas-문법"
-            }
-          },
-          {
-            "id": "2a9ed4536d7a3ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/빅데이터-분석기사-실기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "빅데이터-분석기사-실기"
-            }
-          },
-          {
-            "id": "68cbfb2cbc7540a0",
+            "id": "7c9f4ea421d342df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "패턴",
+                "query": "react-hook-form",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,38 +180,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a9ed4536d7a3ee6",
+  "active": "7c9f4ea421d342df",
   "lastOpenFiles": [
-    "AI/pandas-문법.md",
-    "AI/빅데이터-분석기사-실기.md",
-    "FE-WEB/react/WIP-render-pattern.md",
-    "AI",
-    "FE-WEB/react/WIP-react19.md",
-    "FE-WEB/react/WIP-handling-error.md",
-    "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
-    "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
-    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
-    "FE-WEB/react/folder-structure.md",
-    "FE-WEB/react/error-boundary.md",
-    "RETROSPECTIVE/short.md",
-    "FE-WEB/react/WIP-use.md",
-    "FE-WEB/react/WIP-react-router-dom의_세가지_타입.md",
-    "FE-WEB/react/WIP-colocation.md",
-    "FE-WEB/react/useReducer.md",
-    "FE-WEB/react/react-vs-react-dom.md",
-    "FE-WEB/react/pure-component.md",
-    "FE-WEB/react/WIP-susepnse.md",
-    "ENGLISH/README.md",
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
+    "FE-WEB/react/WIP-render-pattern.md",
+    "FE-WEB/html+css/WIP-까다로운-css.md",
+    "FE-WEB/WIP-performance.md",
+    "AI/빅데이터-분석기사-실기.md",
+    "AI/pandas-문법.md",
+    "AI",
+    "ETC/intellij.md",
+    "ETC/obsidian.md",
+    "ETC/커버이미지.png",
+    "ETC/여러-github-계정-세팅.md",
+    "ETC/README.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
-    "FE-WEB/tanstack-query/WIP-auth.md",
-    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
-    "FE-WEB/performance",
-    "FE-WEB/react/useLayoutEffect/image.png",
+    "FE-WEB/react-hook-form/common-issue.md",
+    "FE-WEB/react-router-dom/WIP-loader.md",
+    "FE-WEB/react-router-dom/WIP-infinity-scroll.md",
+    "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
+    "FE-WEB/react-router/defer.md",
+    "FE-WEB/react-router/WIP-라우팅의-종류.md",
+    "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
+    "FE-WEB/react-router/WIP-prefetch.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
+    "FE-WEB/react-router/WIP-picking-a-router.md",
+    "FE-WEB/react-router/WIP-loader.md",
+    "FE-WEB/react-router/WIP-error.md",
+    "FE-WEB/react-router",
+    "FE-WEB/react-hook-form/Untitled.md",
+    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
+    "ALGORITHM/problems.md",
     "FE-WEB/react-hook-form",
+    "FE-WEB/Untitled",
     "DB/cover-image.png",
     "ALGORITHM/dp-vs-greedy",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
