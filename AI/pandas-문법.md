@@ -6,5 +6,5 @@
 - 결과는 Series
 - 빈도 순으로 정렬
 
-##### reset_values(drop=True)
+##### reset_index(drop=True)
 - 인덱스 초기화
