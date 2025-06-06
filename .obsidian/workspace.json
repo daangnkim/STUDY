@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/refetch-관련-옵션.md",
+                "file": "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "refetch-관련-옵션"
+              "title": "WIP-queryClient-메서드"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,14 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68cbfb2cbc7540a0",
+  "active": "89900d28236e639f",
   "lastOpenFiles": [
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/tanstack-query/refetch-관련-옵션.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
-    "FE-WEB/tanstack-query/WIP-auth.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
+    "FE-WEB/tanstack-query/WIP-auth.md",
+    "FE-WEB/tanstack-query/WIP-prefetch.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "ENGLISH/README.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/html+css/WIP-까다로운-css.md",
     "FE-WEB/html+css/xml-vs-html.md",
     "FE-WEB/react-router/WIP-picking-mode.md",
@@ -236,8 +238,6 @@
     "ALGORITHM/problems.md",
     "conflict-files-obsidian-git.md",
     "ALGORITHM/WIP-floyd-hare-tortoise.md",
-    "FE-WEB/storybook.md",
-    "FE-WEB/react-hook-form/common-issue.md",
     "FE-WEB/react-hook-form",
     "DB/cover-image.png",
     "ALGORITHM/dp-vs-greedy",

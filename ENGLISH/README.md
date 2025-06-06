@@ -38,4 +38,4 @@
 - streamline / 간소화하다
 - wrap around / 순환하다.
 - overhyped / 과대 평가된
-- clobber / 
+- clobber / 무효화하다
