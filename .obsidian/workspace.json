@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-loader.md",
+                "file": "FE-WEB/tanstack-query/refetch-관련-옵션.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-loader"
+              "title": "refetch-관련-옵션"
             }
           }
         ]
@@ -182,8 +182,16 @@
   },
   "active": "9f768918b531a418",
   "lastOpenFiles": [
-    "ENGLISH/README.md",
+    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/WIP-prefetch.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/WIP-auth.md",
     "FE-WEB/react-router/WIP-loader.md",
+    "ENGLISH/README.md",
     "FE-WEB/javascript/default-export-vs-named-export.md",
     "FE-WEB/react-router/defer.md",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
@@ -201,14 +209,6 @@
     "FE-WEB/react/WIP-handling-error.md",
     "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
     "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
-    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
-    "FE-WEB/react/folder-structure.md",
-    "FE-WEB/react/error-boundary.md",
-    "FE-WEB/react/WIP-use.md",
-    "FE-WEB/react/WIP-react-router-dom의_세가지_타입.md",
-    "FE-WEB/react/WIP-colocation.md",
-    "FE-WEB/react/useReducer.md",
-    "FE-WEB/react/react-vs-react-dom.md",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
     "FE-WEB/react-hook-form",
