@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/README.md",
+                "file": "FE-WEB/react-router/WIP-loader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "WIP-loader"
             }
           }
         ]
@@ -182,12 +182,12 @@
   },
   "active": "9f768918b531a418",
   "lastOpenFiles": [
+    "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/javascript/default-export-vs-named-export.md",
     "FE-WEB/react-router/defer.md",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
     "FE-WEB/ui-ux/WIP-Dropdown-구현-방법.md",
-    "ENGLISH/README.md",
     "FE-WEB/html+css/xml-vs-html.md",
     "FE-WEB/react/WIP-render-pattern.md",
     "AI/pandas-문법.md",
