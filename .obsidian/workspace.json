@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e817dfc06c26131f",
+        "id": "962b56ac991f6880",
         "type": "tabs",
         "children": [
           {
-            "id": "85cf5b3dbefecd33",
+            "id": "9f768918b531a418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
+                "file": "FE-WEB/javascript/default-export-vs-named-export.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-skeleton-vs-spinner-progressbar"
-            }
-          },
-          {
-            "id": "f4b6d8c5f4e5362c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-WEB/ui-ux/WIP-Dropdown-구현-방법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WIP-Dropdown-구현-방법"
+              "title": "default-export-vs-named-export"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -195,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4b6d8c5f4e5362c",
+  "active": "9f768918b531a418",
   "lastOpenFiles": [
+    "FE-WEB/react-router/defer.md",
     "FE-WEB/ui-ux/WIP-skeleton-vs-spinner-progressbar.md",
     "FE-WEB/ui-ux/WIP-Dropdown-구현-방법.md",
     "ENGLISH/README.md",
@@ -223,7 +210,6 @@
     "FE-WEB/react/react-vs-react-dom.md",
     "FE-WEB/react/pure-component.md",
     "FE-WEB/react/WIP-susepnse.md",
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
     "FE-WEB/react-hook-form",
