@@ -8,9 +8,10 @@ route-level data fetching이 가능하게한다. 다만 `data router mode` 내�
 
 ## loader의 장점
 
+##### parallel data fetching
+router level에서 데이터 패칭이 일어나므로, sequential data fetching으로 인한 waterfall 현상을 제거할 수 있다.
 ##### decoupling data fetching from ui rendering
 컴포넌트는 데이터를 보여주고 user interaction만 관리한다.
-
 ##### 로딩스피너가 보여지지 않고 완성된 UI가 보여진다
 
 #### react-router의 Link 태그를 이용하여 prefetch가 가능해진다.
@@ -19,8 +20,10 @@ route-level data fetching이 가능하게한다. 다만 `data router mode` 내�
 
 ## loader의 단점
 
-##### 1. 설계 복잡도 증가
-##### 2. 컴포넌트 상태에 따른 dynamic fetching 불리
+##### 설계 복잡도 증가
+
+
+##### 컴포넌트 상태에 따른 dynamic fetching 불리
 
 ****
 
