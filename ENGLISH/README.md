@@ -41,3 +41,4 @@
 - clobber / 무효화하다
 - tackle / 문제나 과제에 맞서서 적극적으로 해결하다
 - granular / 더 세밀하고 정교한, 단위가 작은
+- tedious / 지루한
