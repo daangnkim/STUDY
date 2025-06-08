@@ -10,6 +10,9 @@ waterfall 문제를 해결하고나서 다음 문제는 거대한 js bundle이�
 
 React.lazy는 올바른 해결책이 아니다. 왜냐하면 결국에는 데이터 패칭이 끝나고 컴포넌트를 패칭하는 waterfall과 같은 chaining이 다시 만들어지게된다.
 
+🤔 그래서 Lazy를 직접 만들게된 계기가 잘 이해가 안됨.
+
+(어찌저찌 Lazy가 적용됐다고 가정하고) Lazy를 적용하게 되면, Loader와 Component를 하나의 번들 안에서 load하는 것이 아닌 Loader와 Component를 병렬로 다운로드한다.
 
 
 
