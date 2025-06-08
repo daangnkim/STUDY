@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-loader.md",
+                "file": "FE-WEB/react/folder-structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-loader"
+              "title": "folder-structure"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factory",
+                "query": "QUESTIONS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f768918b531a418",
+  "active": "277dfbd375bb177d",
   "lastOpenFiles": [
-    "ENGLISH/README.md",
+    "FE-WEB/html+css+browser/preprocessor-postprocessor/(WIP)preprocessor와_postprocessor.md",
     "FE-WEB/react-router/WIP-loader.md",
+    "ENGLISH/README.md",
     "FE-WEB/typescript/satisfies.md",
     "FE-WEB/html+css+browser/css-terms.md",
     "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
@@ -209,7 +210,6 @@
     "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
     "FE-WEB/tanstack-query/WIP-auth.md",
     "FE-WEB/javascript/default-export-vs-named-export.md",
-    "FE-WEB/react-router/defer.md",
     "AI",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
