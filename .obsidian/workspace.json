@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/빅데이터-분석기사-실기.md",
+                "file": "FE-WEB/tanstack-query/WIP-architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "빅데이터-분석기사-실기"
+              "title": "WIP-architecture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "패턴",
+                "query": "factory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -183,15 +183,22 @@
   },
   "active": "9f768918b531a418",
   "lastOpenFiles": [
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
-    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "FE-WEB/tanstack-query/WIP-auth.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/WIP-prefetch.md",
+    "FE-WEB/react-router/WIP-라우팅의-종류.md",
+    "FE-WEB/react-router/WIP-error.md",
+    "FE-WEB/react-router/WIP-prefetch.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
     "FE-WEB/react-router/WIP-loader.md",
+    "FE-WEB/react-router/WIP-picking-a-router.md",
+    "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
+    "AI/빅데이터-분석기사-실기-준비.md",
+    "FE-WEB/tanstack-query/WIP-auth.md",
     "ENGLISH/README.md",
     "FE-WEB/javascript/default-export-vs-named-export.md",
     "FE-WEB/react-router/defer.md",
@@ -202,14 +209,7 @@
     "AI/pandas-문법.md",
     "FE-WEB/html+css/hypertext.md",
     "FE-WEB/html+css/WIP-페이지간-데이터-전달-방법.md",
-    "FE-WEB/javascript/Barrel패턴.md",
-    "AI/빅데이터-분석기사-실기.md",
-    "RETROSPECTIVE/short.md",
     "AI",
-    "FE-WEB/react/WIP-react19.md",
-    "FE-WEB/react/WIP-handling-error.md",
-    "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
-    "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
     "FE-WEB/react-hook-form",
