@@ -5,4 +5,6 @@ type assertion은 컴파일러에게 타입을 알려주는 것이고, const ass
 객체는 불변이다. 그러므로 프로퍼티의 값이 바뀔 수 있기 때문에 기본적으로 string 타입으로 추론된다. 여기에 만약 const assertion을 한다면, 리터럴 타입으로 추론된다.
 
 
+
+
 [The power of const assertions | TkDodo's blog](https://tkdodo.eu/blog/the-power-of-const-assertions)
