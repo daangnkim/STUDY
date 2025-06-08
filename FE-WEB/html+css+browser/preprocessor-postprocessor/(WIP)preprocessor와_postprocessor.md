@@ -1,6 +1,6 @@
 ## preprocessor와 postprocessor
 
-![alt text](FE-WEB/html+css/preprocessor-postprocessor/image-1.png)
+![alt text](FE-WEB/html+css+browser/preprocessor-postprocessor/image-1.png)
 
 preprocessor에는 SASS, LESS, Stylus가 존재한다. SASS, LESS, Stylus는 언어이자 그 자체로 툴 이름이기도 하다. 이러한 툴은 css가 제공하지 못하는 기능들인 변수, Nesting, Mixin, Minification 기능등을 제공한다. SASS로 작성한 툴들은 css 파일이 아니며 css 파일로 변환돼야한다.
 
