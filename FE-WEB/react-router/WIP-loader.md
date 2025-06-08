@@ -41,7 +41,7 @@ router level에서 데이터 패칭이 일어나므로, sequential data fetching
 
 ****
 
-## 궁금증
+## 🤔
 
 1. prefetch를 사용하지 않더라도 loader를 사용하는게 더 빠른 이유는 뭘까?
 2. loader 내에서 요청을 defer한 다음에 로딩 스피너를 보여줄 수는 없을까?
