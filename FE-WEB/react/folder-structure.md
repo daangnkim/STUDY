@@ -33,7 +33,7 @@ Feature Sliced Design에서 소개되는 내용인데, 특정 폴더가 제공�
 2. api의 내부 폴더 구조를 신경쓰지 않아도 된다.
 3. local api와 public api 구분이 가능해진다.
 
-## QUESTIONS
+## 🤔
 
 1. 비지니스를 고려하여 폴더 구조를 잡으면 어떤 점이 좋지?
 2. 프로젝트가 복잡해질수록 domain 따라 나누게 되는 이유는 머지?

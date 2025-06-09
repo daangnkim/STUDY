@@ -43,4 +43,4 @@
 - granular / 더 세밀하고 정교한, 단위가 작은
 - tedious / 지루한
 - be exclusive to / ~ 에만 국한되다
-- deem
+- deem / 공식적으로 판단하다
