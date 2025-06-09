@@ -1,3 +1,5 @@
+app download 및 offline access를 통해 app like experience가 가능하다.
+
 ## web app manifest
 
 a hybrid version of web and app
