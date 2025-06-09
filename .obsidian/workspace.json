@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
+                "file": "ENGLISH/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-chrome-devtools"
+              "title": "README"
             }
           }
         ]
@@ -182,17 +182,17 @@
   },
   "active": "9f768918b531a418",
   "lastOpenFiles": [
+    "AI/빅데이터-분석기사-실기-준비.md",
+    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react/folder-structure.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/(WIP)preprocessor와_postprocessor.md",
     "FE-WEB/typescript/satisfies.md",
     "FE-WEB/html+css+browser/css-terms.md",
-    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "conflict-files-obsidian-git.md",
     "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-hook-form/common-issue.md",
-    "AI/빅데이터-분석기사-실기-준비.md",
     "AI/pandas-문법.md",
     "Untitled.canvas",
     "Untitled",
