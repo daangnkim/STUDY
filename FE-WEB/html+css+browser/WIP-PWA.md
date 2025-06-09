@@ -15,3 +15,5 @@ it enable features like push notification
 
 
 [Progressive Web App (PWA) with Vite : Development Guide - DEV Community](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
+
+[Enabling the “Install” Experience in a React + Vite Web App: A PWA Guide | by Sagnik Ghosh | Stackademic](https://blog.stackademic.com/enabling-the-install-experience-in-a-react-vite-web-app-a-pwa-guide-bc30e42be792)
