@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/html+css+browser/WIP-까다로운-css.md",
+                "file": "FE-WEB/html+css+browser/WIP-PWA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-까다로운-css"
+              "title": "WIP-PWA"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,14 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73d8e2a51f8d2247",
+  "active": "9f768918b531a418",
   "lastOpenFiles": [
-    "FE-WEB/html+css+browser/WIP-PWA.md",
+    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "ENGLISH/README.md",
+    "FE-WEB/html+css+browser/WIP-PWA.md",
     "conflict-files-obsidian-git.md",
     "AI/빅데이터-분석기사-실기-준비.md",
-    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react/folder-structure.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/(WIP)preprocessor와_postprocessor.md",
