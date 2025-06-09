@@ -24,7 +24,7 @@ Plugin들과 함께 다음과 같은 기능들을 제공한다.
 
 4. CSS nano를 통해서 css를 압축한다.
 
-## QUESTIONS
+## 🤔
 
 1. tailwind와 postcss의 관계는?
 
