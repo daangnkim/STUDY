@@ -44,3 +44,8 @@
 - tedious / 지루한
 - be exclusive to / ~ 에만 국한되다
 - deem / 공식적으로 판단하다
+- permission / 구체적인 권한
+- grant / 권한을 부여하는 행위
+- authorization / 권한을 확인하는 과정
+- aformentioned / 앞서 언급한
+- 
