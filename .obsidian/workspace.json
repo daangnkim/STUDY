@@ -179,13 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcc49300eb20cc73",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
-    "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
+    "conflict-files-obsidian-git.md",
+    "FE-WEB/html+css+browser/WIP-PWA.md",
+    "AI/용어-정리.md",
+    "AI/Pasted image 20250610000716.png",
+    "AI/Pasted image 20250610000711.png",
+    "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "ENGLISH/README.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/image-1.png",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/(WIP)preprocessor와_postprocessor.md",
@@ -212,7 +216,6 @@
     "ETC/obsidian.md",
     "ETC/커버이미지.png",
     "ETC/여러-github-계정-세팅.md",
-    "ETC/README.md",
     "FE-WEB/react-router",
     "FE-WEB/react-hook-form",
     "FE-WEB/Untitled",
