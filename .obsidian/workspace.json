@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+                "file": "FE-WEB/react-hook-form/common-issue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-queryClient-메서드"
+              "title": "common-issue"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -182,6 +181,7 @@
   },
   "active": "bcc49300eb20cc73",
   "lastOpenFiles": [
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "conflict-files-obsidian-git.md",
@@ -207,7 +207,6 @@
     "FE-WEB/typescript/WIP-as-const.md",
     "FE-WEB/html+css/WIP-페이지간-데이터-전달-방법.md",
     "AI/빅데이터-분석기사-실기-준비.md",
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "FE-WEB/react/WIP-render-pattern.md",
     "FE-WEB/html+css/WIP-까다로운-css.md",
     "FE-WEB/WIP-performance.md",
