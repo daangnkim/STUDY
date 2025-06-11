@@ -1,3 +1,7 @@
+### nullable한 필드의 처리
+
+[zod optional/nullable/nullish differences](https://gist.github.com/ciiqr/ee19e9ff3bb603f8c42b00f5ad8c551e)
+
 ### 필드를 required하게 만들기
 
 다음은 필드를 required하게 만들지 않는다.
