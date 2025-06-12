@@ -11,12 +11,14 @@
             "id": "9f768918b531a418",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "AI/Pasted image 20250610000711.png"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250610000711"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -191,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f768918b531a418",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
+    "AI/Pasted image 20250610000711.png",
     "AI/빅데이터-분석기사-실기-준비.md",
     "AI/용어-정리.md",
     "AI/pandas-문법.md",
     "AI/Pasted image 20250610000716.png",
-    "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/WIP-PWA.md",
     "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
@@ -222,7 +224,6 @@
     "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/react-router/WIP-라우팅의-종류.md",
     "FE-WEB/react-router/WIP-prefetch.md",
-    "FE-WEB/react-router/WIP-picking-mode.md",
     "AI",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
