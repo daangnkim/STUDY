@@ -25,14 +25,14 @@
             "id": "1adb2a9b0fdfd71d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "AI/빅데이터-분석기사-실기-준비.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "빅데이터-분석기사-실기-준비"
             }
           },
           {
@@ -210,12 +210,12 @@
   },
   "active": "1adb2a9b0fdfd71d",
   "lastOpenFiles": [
+    "AI/용어-정리.md",
+    "AI/pandas-문법.md",
     "conflict-files-obsidian-git.md",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "AI/Pasted image 20250610000711.png",
     "AI/빅데이터-분석기사-실기-준비.md",
-    "AI/용어-정리.md",
-    "AI/pandas-문법.md",
     "AI/Pasted image 20250610000716.png",
     "FE-WEB/html+css+browser/WIP-PWA.md",
     "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
