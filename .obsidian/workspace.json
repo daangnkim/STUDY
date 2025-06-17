@@ -11,13 +11,30 @@
             "id": "536c620adb514e23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "image",
+              "state": {
+                "file": "SECURITY/cover-image.png"
+              },
+              "icon": "lucide-image",
+              "title": "cover-image"
+            }
+          },
+          {
+            "id": "019926e44539171e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SECURITY/csrf.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "csrf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react-hook-form",
+                "query": "csrf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +87,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -175,14 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "536c620adb514e23",
+  "active": "019926e44539171e",
   "lastOpenFiles": [
+    "SECURITY/cover-image.png",
+    "SECURITY/csrf.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
+    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
+    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/typescript/satisfies.md",
+    "FE-WEB/typescript/WIP-as-const.md",
+    "FE-WEB/typescript/WIP-error.md",
+    "FE-WEB/tanstack-query/WIP-prefetch.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "ETC/intellij.md",
     "ENGLISH/README.md",
     "ENGLISH/Untitled.md",
     "FE-WEB/react-hook-form/common-issue.md",
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "conflict-files-obsidian-git.md",
     "FE-WEB/html+css+browser/WIP-PWA.md",
@@ -198,18 +227,8 @@
     "FE-WEB/html+css+browser/preprocessor-postprocessor",
     "FE-WEB/html+css+browser/hypertext.md",
     "FE-WEB/html+css+browser/css-terms.md",
-    "FE-WEB/html+css+browser/WIP-페이지간-데이터-전달-방법.md",
     "FE-WEB/html+css+browser",
-    "FE-WEB/동작원리/이벤트루프.md",
     "FE-WEB/동작원리",
-    "FE-WEB/ui-ux/WIP-Dropdown-구현-방법.md",
-    "FE-WEB/typescript/WIP-as-const.md",
-    "FE-WEB/html+css/WIP-페이지간-데이터-전달-방법.md",
-    "AI/빅데이터-분석기사-실기-준비.md",
-    "FE-WEB/react/WIP-render-pattern.md",
-    "FE-WEB/html+css/WIP-까다로운-css.md",
-    "FE-WEB/WIP-performance.md",
-    "AI/빅데이터-분석기사-실기.md",
     "AI",
     "ETC/커버이미지.png",
     "FE-WEB/react-router",
