@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "810a961fa8b3faef",
+        "id": "2ec78fbfde30c7c5",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc49300eb20cc73",
+            "id": "536c620adb514e23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ETC/intellij.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "intellij"
+              "title": "New tab"
             }
           }
         ]
@@ -179,8 +175,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcc49300eb20cc73",
+  "active": "536c620adb514e23",
   "lastOpenFiles": [
+    "ETC/intellij.md",
     "ENGLISH/README.md",
     "ENGLISH/Untitled.md",
     "FE-WEB/react-hook-form/common-issue.md",
@@ -213,7 +210,6 @@
     "FE-WEB/html+css/WIP-까다로운-css.md",
     "FE-WEB/WIP-performance.md",
     "AI/빅데이터-분석기사-실기.md",
-    "AI/pandas-문법.md",
     "AI",
     "ETC/커버이미지.png",
     "FE-WEB/react-router",
