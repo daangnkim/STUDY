@@ -25,14 +25,14 @@
             "id": "5962eeaa0d5126b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AI/빅데이터-분석기사-개념.md",
-                "mode": "source",
-                "source": false
+                "aFile": "AI/빅데이터-분석기사-개념.md",
+                "bFile": "AI/빅데이터-분석기사-개념.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "빅데이터-분석기사-개념"
+              "icon": "diff",
+              "title": "Diff: 빅데이터-분석기사-개념"
             }
           },
           {
@@ -222,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5962eeaa0d5126b1",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
-    "AI/빅데이터-분석기사-실기-준비.md",
     "AI/빅데이터-분석기사-개념.md",
+    "AI/빅데이터-분석기사-실기-준비.md",
     "AI/pandas-문법.md",
     "AI/용어-정리.md",
     "ENGLISH/README.md",
