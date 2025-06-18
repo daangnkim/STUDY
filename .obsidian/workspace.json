@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "5c7071a99cd724a5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "1adb2a9b0fdfd71d",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,14 +236,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5962eeaa0d5126b1",
+  "active": "5c7071a99cd724a5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "SECURITY/csrf.md",
+    "FE-WEB/tanstack-query/generic-type-관련.md",
+    "ENGLISH/Untitled.md",
     "AI/빅데이터-분석기사-개념.md",
     "AI/빅데이터-분석기사-실기-준비.md",
     "AI/pandas-문법.md",
     "AI/용어-정리.md",
     "ENGLISH/README.md",
-    "conflict-files-obsidian-git.md",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "AI/Pasted image 20250610000711.png",
     "AI/Pasted image 20250610000716.png",
@@ -252,9 +269,6 @@
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/react-router/WIP-라우팅의-종류.md",
-    "FE-WEB/react-router/WIP-prefetch.md",
     "AI",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
