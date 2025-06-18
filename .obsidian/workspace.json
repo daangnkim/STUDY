@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/빅데이터-분석기사-실기-준비.md",
+                "file": "AI/빅데이터-분석기사-개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "빅데이터-분석기사-실기-준비"
+              "title": "빅데이터-분석기사-개념"
+            }
+          },
+          {
+            "id": "2f7c08ef13d05fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/빅데이터-분석기사-시험-전-읽을 것.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "빅데이터-분석기사-시험-전-읽을 것"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,12 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f768918b531a418",
+  "active": "2f7c08ef13d05fb5",
   "lastOpenFiles": [
+    "AI/빅데이터-분석기사-개념.md",
+    "AI/빅데이터-분석기사-시험-전-읽을 것.md",
+    "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/용어-정리.md",
     "AI/pandas-문법.md",
-    "AI/빅데이터-분석기사-개념.md",
-    "AI/빅데이터-분석기사-실기-준비.md",
     "conflict-files-obsidian-git.md",
     "SECURITY/csrf.md",
     "FE-WEB/tanstack-query/generic-type-관련.md",
@@ -211,7 +227,6 @@
     "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "AI",
     "FE-WEB/performance",
     "FE-WEB/react/useLayoutEffect/image.png",
