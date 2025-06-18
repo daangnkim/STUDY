@@ -27,12 +27,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "AI/빅데이터-분석기사-개념.md",
-                "bFile": "AI/빅데이터-분석기사-개념.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 빅데이터-분석기사-개념"
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682fd85170962174",
+  "active": "5962eeaa0d5126b1",
   "lastOpenFiles": [
     "AI/빅데이터-분석기사-개념.md",
     "AI/빅데이터-분석기사-실기-준비.md",
