@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -180,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85a75c28124adb5c",
+  "active": "9f768918b531a418",
   "lastOpenFiles": [
     "AI/빅데이터-분석기사-실기-준비.md",
     "conflict-files-obsidian-git.md",
