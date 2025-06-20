@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/generic-type-관련.md",
+                "file": "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "generic-type-관련"
+              "title": "WIP-queryClient-메서드"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -196,13 +197,13 @@
   },
   "active": "77905047ab4d4f56",
   "lastOpenFiles": [
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
-    "FE-WEB/tanstack-query/generic-type-관련.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+    "FE-WEB/tanstack-query/generic-type-관련.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "SECURITY/csrf.md",
     "SECURITY/cover-image.png",
