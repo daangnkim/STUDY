@@ -39,15 +39,14 @@
             "id": "6e8898bf81d9006d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "AI/빅데이터-분석기사-시험-전-읽을 것.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "빅데이터-분석기사-시험-전-읽을 것"
             }
           }
         ],
@@ -108,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,9 +212,9 @@
   },
   "active": "6e8898bf81d9006d",
   "lastOpenFiles": [
+    "AI/빅데이터-분석기사-실기-문제풀이.md",
     "conflict-files-obsidian-git.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅데이터-분석기사-개념.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
