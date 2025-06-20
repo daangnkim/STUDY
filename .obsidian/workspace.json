@@ -39,14 +39,15 @@
             "id": "6e8898bf81d9006d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -107,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -211,8 +211,8 @@
   },
   "active": "6e8898bf81d9006d",
   "lastOpenFiles": [
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "conflict-files-obsidian-git.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅데이터-분석기사-개념.md",
