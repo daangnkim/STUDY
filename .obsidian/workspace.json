@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -213,10 +212,10 @@
   "active": "6e8898bf81d9006d",
   "lastOpenFiles": [
     "AI/빅데이터-분석기사-실기-문제풀이.md",
-    "conflict-files-obsidian-git.md",
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅데이터-분석기사-개념.md",
+    "conflict-files-obsidian-git.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/tanstack-query/generic-type-관련.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
