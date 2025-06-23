@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "498dda80edef4f6b",
+        "id": "0966deb5de2f1038",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1e088d76423696",
+            "id": "24706274c7188887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/refetch-관련-옵션.md",
+                "file": "FE-WEB/tanstack-query/옵션-리스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "refetch-관련-옵션"
-            }
-          },
-          {
-            "id": "77905047ab4d4f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WIP-queryClient-메서드"
-            }
-          },
-          {
-            "id": "6e8898bf81d9006d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/빅데이터-분석기사-시험-전-읽을 것.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "빅데이터-분석기사-시험-전-읽을 것"
+              "title": "옵션-리스트"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -210,18 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e8898bf81d9006d",
+  "active": "24706274c7188887",
   "lastOpenFiles": [
-    "AI/빅데이터-분석기사-실기-문제풀이.md",
+    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
+    "FE-WEB/tanstack-query/옵션-리스트.md",
+    "FE-WEB/tanstack-query/generic-type-관련.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
+    "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-개념.md",
     "conflict-files-obsidian-git.md",
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/tanstack-query/generic-type-관련.md",
-    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "SECURITY/csrf.md",

@@ -1,1 +1,0 @@
-[React Query and TypeScript | TkDodo's blog](https://tkdodo.eu/blog/react-query-and-type-script)
