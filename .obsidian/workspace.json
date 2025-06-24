@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/README.md",
+                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "WIP-ts-router-vs-react-router"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "98ea10927d5d9bb4",
   "lastOpenFiles": [
-    "ENGLISH/Untitled.md",
     "ENGLISH/README.md",
+    "DESIGN-PATTERN/README.md",
+    "DESIGN-PATTERN/커버_이미지.png",
+    "DESIGN-PATTERN/객체지향-관련-용어.md",
+    "ENGLISH/Untitled.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
@@ -208,8 +211,6 @@
     "FE-WEB/typescript/WIP-as-const.md",
     "FE-WEB/typescript/WIP-error.md",
     "ETC/intellij.md",
-    "FE-WEB/react-hook-form/common-issue.md",
-    "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
@@ -227,7 +228,6 @@
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png",
     "ALGORITHM",
-    "NETWORK/cover-image.png",
     "RETROSPECTIVE"
   ]
 }
