@@ -49,3 +49,4 @@
 - authorization / 권한을 확인하는 과정
 - aformentioned / 앞서 언급한
 - barebone / 기본적인 골격만 있는 상태
+- afterthought / 뒤늦은 생각
