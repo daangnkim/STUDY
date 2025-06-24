@@ -1,5 +1,9 @@
 ## react-router를 쓰면서 느꼈던 점
 
+- 문서가 구리다.
+- path param에 대한 타이핑을 loader에서 한다.
+- 파일 경로 설정이 애매해진다.
+
 ## react-router에 대한 사람들의 평가
 
 
