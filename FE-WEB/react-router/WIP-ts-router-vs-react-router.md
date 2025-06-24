@@ -3,6 +3,8 @@
 - 문서가 구리다.
 - 타이핑이 잘 안된다. 특히 query parameter와 엮이는 순간 코드가 매우 지저분해진다.
 - 파일 경로 설정이 애매하다.
+- loader가 매력적이다.
+
 
 ## react-router에 대한 사람들의 평가
 
@@ -16,4 +18,5 @@
 
 
 [Is there any quality React Router v7 guide with Vite SPA yet? : r/reactjs](https://www.reddit.com/r/reactjs/comments/1hco21n/is_there_any_quality_react_router_v7_guide_with/)
+
 [React Router Official Documentation](https://reactrouter.com/)

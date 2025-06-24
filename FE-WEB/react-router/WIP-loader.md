@@ -15,10 +15,6 @@ React.lazy는 올바른 해결책이 아니다. 왜냐하면 결국에는 데이
 (어찌저찌 Lazy가 적용됐다고 가정하고) Lazy를 적용하게 되면, Loader와 Component를 하나의 번들 안에서 load하는 것이 아닌 Loader와 Component를 병렬로 다운로드한다.
 
 
-
-
-
-
 ****
 
 ## loader의 장점
