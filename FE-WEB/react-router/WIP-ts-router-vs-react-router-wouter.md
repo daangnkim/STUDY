@@ -29,3 +29,5 @@
 [React Router Official Documentation](https://reactrouter.com/)
 
 [Decisions on Developer Experience | TanStack Router React Docs](https://tanstack.com/router/latest/docs/framework/react/decisions-on-dx)
+
+[molefrog/wouter: 🥢 A minimalist-friendly ~2.1KB routing for React and Preact](https://github.com/molefrog/wouter)
