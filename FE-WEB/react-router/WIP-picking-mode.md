@@ -15,7 +15,6 @@ route 설정을 react rendering 바깥으로 옮기며 `loader`, `action`, `useF
 
 ##### Framework 모드에서 SPA를 쓰는 방법
 
-
 [Single Page App (SPA) | React Router](https://reactrouter.com/how-to/spa)
 
 [Picking a Mode | React Router](https://reactrouter.com/start/modes)

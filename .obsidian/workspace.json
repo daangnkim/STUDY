@@ -11,14 +11,15 @@
             "id": "24706274c7188887",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "DB/postgresql/instructions.md",
-                "mode": "source",
-                "source": false
+                "aFile": "ENGLISH/Untitled.md",
+                "bFile": "ENGLISH/Untitled.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "instructions"
+              "icon": "diff",
+              "title": "Diff: Untitled"
             }
           }
         ]
@@ -78,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24706274c7188887",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
+    "DB/postgresql/instructions.md",
+    "conflict-files-obsidian-git.md",
+    "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
     "ETC/intellij.md",
     "ETC/obsidian.md",
     "FE-WEB/react/error-boundary.md",
@@ -194,7 +196,6 @@
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-개념.md",
-    "conflict-files-obsidian-git.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
@@ -208,11 +209,9 @@
     "FE-WEB/react-hook-form/common-issue.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "FE-WEB/html+css+browser/WIP-PWA.md",
-    "AI/용어-정리.md",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
-    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/image-1.png",
     "FE-WEB/html+css+browser/preprocessor-postprocessor",
     "FE-WEB/html+css+browser",
