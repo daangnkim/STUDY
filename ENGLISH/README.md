@@ -52,3 +52,4 @@
 - afterthought / 뒤늦은 생각
 - inception / 시작
 - facent of / ~의 측면, 양상
+- deviate from the norms / ~관례에서 벗아나다

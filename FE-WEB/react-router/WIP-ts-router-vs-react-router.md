@@ -24,3 +24,5 @@
 [Is there any quality React Router v7 guide with Vite SPA yet? : r/reactjs](https://www.reddit.com/r/reactjs/comments/1hco21n/is_there_any_quality_react_router_v7_guide_with/)
 
 [React Router Official Documentation](https://reactrouter.com/)
+
+[Decisions on Developer Experience | TanStack Router React Docs](https://tanstack.com/router/latest/docs/framework/react/decisions-on-dx)
