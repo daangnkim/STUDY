@@ -53,3 +53,4 @@
 - inception / 시작
 - facent of / ~의 측면, 양상
 - deviate from the norms / ~관례에서 벗아나다
+- out of the question / 논의할 가치가 없는
