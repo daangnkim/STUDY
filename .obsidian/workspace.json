@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/옵션-리스트.md",
+                "file": "DB/postgresql/instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵션-리스트"
+              "title": "instructions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postgresql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -182,6 +183,9 @@
   },
   "active": "24706274c7188887",
   "lastOpenFiles": [
+    "ETC/intellij.md",
+    "ETC/obsidian.md",
+    "FE-WEB/react/error-boundary.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/옵션-리스트.md",
@@ -199,7 +203,6 @@
     "FE-WEB/typescript/satisfies.md",
     "FE-WEB/typescript/WIP-as-const.md",
     "FE-WEB/typescript/WIP-error.md",
-    "ETC/intellij.md",
     "ENGLISH/README.md",
     "ENGLISH/Untitled.md",
     "FE-WEB/react-hook-form/common-issue.md",
@@ -210,9 +213,7 @@
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
-    "README.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/image-1.png",
-    "FE-WEB/html+css+browser/preprocessor-postprocessor/(WIP)preprocessor와_postprocessor.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor",
     "FE-WEB/html+css+browser",
     "FE-WEB/동작원리",
