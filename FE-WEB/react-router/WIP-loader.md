@@ -35,6 +35,9 @@ router level에서 데이터 패칭이 일어나므로, sequential data fetching
 
 ##### 컴포넌트 상태에 따른 dynamic fetching 불리
 
+
+
+
 ****
 
 ## 🤔
