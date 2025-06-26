@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
+                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-ts-router-vs-react-router"
+              "title": "WIP-ts-router-vs-react-router-wouter"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "98ea10927d5d9bb4",
   "lastOpenFiles": [
     "ENGLISH/README.md",
-    "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
+    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-router/WIP-prefetch.md",
