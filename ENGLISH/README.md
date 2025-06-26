@@ -50,3 +50,5 @@
 - aformentioned / 앞서 언급한
 - barebone / 기본적인 골격만 있는 상태
 - afterthought / 뒤늦은 생각
+- inception / 시작
+- facent of / ~의 측면, 양상
