@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-loader.md",
+                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-loader"
+              "title": "WIP-ts-router-vs-react-router"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "98ea10927d5d9bb4",
   "lastOpenFiles": [
-    "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-router/WIP-loader.md",
+    "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-router/WIP-prefetch.md",
     "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-picking-mode.md",
