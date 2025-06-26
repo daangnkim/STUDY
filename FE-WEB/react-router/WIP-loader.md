@@ -4,7 +4,7 @@ route-level data fetching이 가능하게한다. 다만 `data router mode` 내�
 
 네비게이션이 시작되자마자 컴포넌트가 그려지길 기다리지 않고 데이터 패칭을 시작한다. 이는 부모 컴포넌트가 그려지고 데이터를 패칭한뒤 자식 컴포넌트가 그려지고 데이터를 패칭하는 waterfall 문제를 제거한다.
 
-loader는 render cycle 바깥에서 패치한다. (react router가 페이지에 필요한 데이터를 알수 있게된다.)
+loader는 render cycle 바깥에서 패치한다. (🤔 react router가 페이지에 필요한 데이터를 알수 있게된다?)
 
 waterfall 문제를 해결하고나서 다음 문제는 거대한 js bundle이다. js bundle은 당장 보지 않는 페이지들과 페이지들에 대한 loader까지 한 번에 로드한다. 그렇다면 React.lazy를 쓰면 되지 않을까? 라는 생각이든다.
 
@@ -13,10 +13,6 @@ React.lazy는 올바른 해결책이 아니다. 왜냐하면 결국에는 데이
 🤔 그래서 Lazy를 직접 만들게된 계기가 잘 이해가 안됨.
 
 (어찌저찌 Lazy가 적용됐다고 가정하고) Lazy를 적용하게 되면, Loader와 Component를 하나의 번들 안에서 load하는 것이 아닌 Loader와 Component를 병렬로 다운로드한다.
-
-
-
-
 
 
 ****
