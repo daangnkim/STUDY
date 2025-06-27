@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a08a653d4f8d5428",
+        "id": "0966deb5de2f1038",
         "type": "tabs",
         "children": [
           {
-            "id": "98ea10927d5d9bb4",
+            "id": "24706274c7188887",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
-                "mode": "source",
-                "source": false
+                "aFile": "ENGLISH/Untitled.md",
+                "bFile": "ENGLISH/Untitled.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "WIP-ts-router-vs-react-router-wouter"
+              "icon": "diff",
+              "title": "Diff: Untitled"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postgresql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,36 +180,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98ea10927d5d9bb4",
+  "active": "24706274c7188887",
   "lastOpenFiles": [
-    "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
-    "FE-WEB/react-router/WIP-loader.md",
-    "FE-WEB/react-router/WIP-error.md",
-    "FE-WEB/react-router/WIP-prefetch.md",
-    "FE-WEB/react-router/WIP-picking-mode.md",
-    "DESIGN-PATTERN/README.md",
-    "DESIGN-PATTERN/커버_이미지.png",
-    "DESIGN-PATTERN/객체지향-관련-용어.md",
-    "ENGLISH/Untitled.md",
-    "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
+    "DB/postgresql/instructions.md",
     "conflict-files-obsidian-git.md",
+    "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
+    "ETC/intellij.md",
+    "ETC/obsidian.md",
+    "FE-WEB/react/error-boundary.md",
+    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/옵션-리스트.md",
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
+    "FE-WEB/tanstack-query/generic-type-관련.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-개념.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/tanstack-query/generic-type-관련.md",
-    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "SECURITY/csrf.md",
     "SECURITY/cover-image.png",
     "FE-WEB/typescript/satisfies.md",
     "FE-WEB/typescript/WIP-as-const.md",
+    "FE-WEB/typescript/WIP-error.md",
+    "ENGLISH/README.md",
+    "ENGLISH/Untitled.md",
+    "FE-WEB/react-hook-form/common-issue.md",
+    "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
@@ -227,6 +226,7 @@
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png",
     "ALGORITHM",
+    "NETWORK/cover-image.png",
     "RETROSPECTIVE"
   ]
 }
