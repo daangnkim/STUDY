@@ -58,3 +58,4 @@
 - whilst / while과 동일한, 영국식 영어
 - gloss over / 대충 넘어가다
 - meticulously / 세심하게
+- kick off / 시작하다, 개시하다, 착수하다
