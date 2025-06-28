@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8206a31e355f6950",
+        "id": "24e229cd9b8bf63c",
         "type": "tabs",
         "children": [
           {
-            "id": "8def4b9fb8593de9",
+            "id": "d63637e39168c66a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8def4b9fb8593de9",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "독자-AI-파운데이션-모델.md",
+    "README.md",
+    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "SPRING/keyword.md",
     "SPRING/ioc-container.md",
     "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
     "SPRING/annotation/WIP-annotation.md",
-    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react-router/WIP-error.md",
@@ -199,7 +199,6 @@
     "DESIGN-PATTERN/객체지향-관련-용어.md",
     "ENGLISH/Untitled.md",
     "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
-    "conflict-files-obsidian-git.md",
     "FE-WEB/tanstack-query/옵션-리스트.md",
     "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
@@ -209,7 +208,6 @@
     "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/tanstack-query/generic-type-관련.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
