@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "WIP-ts-router-vs-react-router-wouter"
             }
           }
         ]
@@ -181,9 +181,9 @@
   },
   "active": "d63637e39168c66a",
   "lastOpenFiles": [
+    "README.md",
     "독자-AI-파운데이션-모델.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "SPRING/keyword.md",
     "SPRING/ioc-container.md",
