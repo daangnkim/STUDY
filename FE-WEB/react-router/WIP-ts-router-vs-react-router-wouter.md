@@ -1,8 +1,10 @@
 ## react-router를 쓰면서 느꼈던 점
 
 - 문서가 구리다.
-	- Outlet의 최적화?
-	- loader의 유효성?
+	- Outlet의 최적화에 대한 설명이 없음.
+		- Layout 컴포넌트를 딱딱하게 만듬.
+	- loader의 유효성
+		- 
 	- validation 방법의 부재?
 - 타이핑이 잘 안된다. 특히 query parameter와 엮이는 순간 코드가 매우 지저분해진다.
 - 파일 경로 설정이 애매하다.
