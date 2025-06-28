@@ -76,4 +76,31 @@ FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
 
 궁금한 점이 있음.
 
-1. 
+내가 개발자로서의 감이 부족하거나 검색 능력이 부족한걸까 의심이 돼서.
+react-router나 tanstack-router 모두 Outlet의 최적화 내용에 대해서 작성돼있지 않더라고.
+그런데 이걸 써놓지 않으면, 일반적으로 Outlet은 리렌더링 될수도 있기 때문에, 컴포넌트를 작성하는데 있어서 조금 더 제한적인 상황이 발생하는 것 같거든?
+
+예를들면 나는 PWA(Progressive Web App)을 구현할때 아래와 같이 Layout 컴포넌트에 상태를 두지 않는 식으로 코드를 작성했어.
+
+```jsx
+const Layout = () => {
+  return (
+    <>
+      <Header />
+      <Outlet />
+      <BottomTab />
+    </>
+  );
+};
+
+```
+
+그러다보니 Header랑 BottomTab의 컴포넌트 구현 자유도가 되게 떨어지더라고. 예를들면 BottomTab이 존재하는 레이아웃과 존재하지 않는 레이아웃을 구분할려고 일부러 파일을 `LayoutWithBottomTab`과 `LayoutWithoutBottomTab`으로 구현한다던지.
+
+근데 코드를 뜯어보니까 Outlet은 rerendering을 안하는 방식으로 설계돼있더라고.
+
+문서에 대한 악평이 많은 react-router라서 그런가보다하고 tanstack-router를 확인했는데 tanstack router도 적혀져있지 않았어.
+
+issue 탭을 찾아봐도 딱히 Outlet 렌더링 조건을 질문하는 글들도 없고 그래서...
+
+이거... 내가 뭔가 개발자로서의 감이나 적성이 부족하거나 그런걸까?? 
