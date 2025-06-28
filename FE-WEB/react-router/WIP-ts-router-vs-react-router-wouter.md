@@ -5,7 +5,8 @@
 		- Layout 컴포넌트를 딱딱하게 만듬.
 	- loader의 유효성
 		- 
-	- validation 방법의 부재?
+	- Framework 모드의 불편함
+		- 
 - 타이핑이 잘 안된다. 특히 query parameter와 엮이는 순간 코드가 매우 지저분해진다.
 - 파일 경로 설정이 애매하다.
 - loader가 가져오는 성능 개선과 벨리데이션이 매력적이다.
