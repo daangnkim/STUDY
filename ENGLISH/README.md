@@ -51,6 +51,7 @@
 - barebone / 기본적인 골격만 있는 상태
 - afterthought / 뒤늦은 생각
 - inception / 시작
-- facent of / ~의 측면, 양상
+- facet of / ~의 측면, 양상
 - deviate from the norms / ~관례에서 벗아나다
 - out of the question / 논의할 가치가 없는
+- 
