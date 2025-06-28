@@ -1,9 +1,9 @@
-FE에서 router는 더 이상 route 역할만 하지 않음.
+FE에서 router는 더 이상 route 역할만 하지 않는다.
 
 1. lazy load
 2. loader
 3. prefetch
-4. query param validation
+4. path + query param validation
 
 
 ## react-router를 쓰면서 좋았던 점
