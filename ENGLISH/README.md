@@ -55,3 +55,4 @@
 - deviate from the norms / ~관례에서 벗아나다
 - out of the question / 논의할 가치가 없는
 - anatomy of / ~ 의 구조 분석
+- whilst / while과 동일한, 영국식 영어
