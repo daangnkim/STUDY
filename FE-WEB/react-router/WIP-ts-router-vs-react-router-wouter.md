@@ -1,9 +1,29 @@
-FE에서 router는 더 이상 route 역할만 하지 않는다.
+## 목차
+
+1. router의 다양한 기능들
+2. react-router가 별로였던점
+3. tanstack-router와의 비교
+
+## react-router의 다양한 기능들
+
+FE에서 router는 route 기능 이상의 역할을 제공한다.
 
 1. lazy load
 2. loader
 3. prefetch
 4. path + query param validation
+
+
+
+
+FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
+
+1. wouter
+2. react-router
+3. tanstack-router
+
+
+
 
 
 ## react-router를 쓰면서 좋았던 점
