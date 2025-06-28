@@ -11,6 +11,7 @@ FE에서 router는 route 기능 이상의 역할을 제공한다.
 1. lazy load
 2. loader
 3. prefetch
+4. 
 등
 
 
