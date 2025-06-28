@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/README.md",
+                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "WIP-ts-router-vs-react-router-wouter"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "d63637e39168c66a",
   "lastOpenFiles": [
+    "FE-WEB/bundler/package-deploy.md",
+    "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "README.md",
     "독자-AI-파운데이션-모델.md",
@@ -191,7 +193,6 @@
     "SPRING/ioc-container.md",
     "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
     "SPRING/annotation/WIP-annotation.md",
-    "ENGLISH/README.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-router/WIP-prefetch.md",
@@ -209,7 +210,6 @@
     "AI/빅데이터-분석기사-개념.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/tanstack-query/generic-type-관련.md",
-    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",

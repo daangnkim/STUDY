@@ -1,12 +1,27 @@
-## react-router를 쓰면서 느꼈던 점
+FE에서 router는 더 이상 route 역할만 하지 않음.
+
+1. lazy load
+2. loader
+3. prefetch
+4. query param validation
+
+
+## react-router를 쓰면서 좋았던 점
+
+## react-router에 대해서 아쉬웠던 점
+
+### 1. 문서
+### 2. Framework 모드의
 
 - 문서가 구리다.
 	- Outlet의 최적화에 대한 설명이 없음.
-		- Layout 컴포넌트를 딱딱하게 만듬.
+		- 딱딱한 Layout 컴포넌트가 구현됨
 	- loader의 유효성
 		- 
 	- Framework 모드의 불편함
-		- 
+		- import를 하나하나 다해줘야함.
+
+
 - 타이핑이 잘 안된다. 특히 query parameter와 엮이는 순간 코드가 매우 지저분해진다.
 - 파일 경로 설정이 애매하다.
 - loader가 가져오는 성능 개선과 벨리데이션이 매력적이다.
