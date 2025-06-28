@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독자-AI-파운데이션-모델.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "독자-AI-파운데이션-모델"
+              "title": "README"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682fd85170962174",
+  "active": "d63637e39168c66a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "독자-AI-파운데이션-모델.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "SPRING/keyword.md",
