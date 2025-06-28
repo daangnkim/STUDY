@@ -14,6 +14,7 @@ FE에서 router는 route 기능 이상의 역할을 제공한다.
 4. path + query param validation
 
 
+useMatch
 
 
 FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
@@ -71,3 +72,8 @@ FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
 [Decisions on Developer Experience | TanStack Router React Docs](https://tanstack.com/router/latest/docs/framework/react/decisions-on-dx)
 
 [molefrog/wouter: 🥢 A minimalist-friendly ~2.1KB routing for React and Preact](https://github.com/molefrog/wouter)
+
+
+궁금한 점이 있음.
+
+1. 
