@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRESENTATION/router/index.md",
+                "file": "FE-WEB/react-router/WIP-picking-mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "WIP-picking-mode"
             }
           }
         ]
@@ -180,13 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce857f05764f78a7",
+  "active": "277dfbd375bb177d",
   "lastOpenFiles": [
+    "FE-WEB/react-router/WIP-picking-a-router.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
+    "PRESENTATION/router/index.md",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router",
     "PRESENTATION",
     "ENGLISH/README.md",
-    "PRESENTATION/router/index.md",
     "FE-WEB/bundler/package-deploy.md",
     "README.md",
     "독자-AI-파운데이션-모델.md",
@@ -198,7 +200,6 @@
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/react-router/WIP-prefetch.md",
-    "FE-WEB/react-router/WIP-picking-mode.md",
     "DESIGN-PATTERN/README.md",
     "DESIGN-PATTERN/커버_이미지.png",
     "DESIGN-PATTERN/객체지향-관련-용어.md",
@@ -225,7 +226,6 @@
     "FE-WEB/react-hook-form",
     "FE-WEB/Untitled",
     "DB/cover-image.png",
-    "ALGORITHM/dp-vs-greedy",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png"
   ]
