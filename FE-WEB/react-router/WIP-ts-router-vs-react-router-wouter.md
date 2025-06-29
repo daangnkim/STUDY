@@ -11,10 +11,6 @@ FE에서 router는 route 기능 이상의 역할을 제공한다.
 1. lazy load
 2. loader
 3. prefetch
-4. 
-등
-
-
 
 
 FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
@@ -22,7 +18,6 @@ FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
 1. wouter
 2. react-router
 3. tanstack-router
-
 
 
 
