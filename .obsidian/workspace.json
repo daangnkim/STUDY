@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-picking-mode.md",
+                "file": "ENGLISH/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-picking-mode"
+              "title": "README"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "277dfbd375bb177d",
+  "active": "ce857f05764f78a7",
   "lastOpenFiles": [
-    "FE-WEB/react-router/WIP-picking-a-router.md",
-    "FE-WEB/react-router/WIP-picking-mode.md",
+    "PRESENTATION/router/ppt.key.sb-30e30b40-bOnTgp",
     "PRESENTATION/router/index.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
+    "FE-WEB/react-router/WIP-picking-a-router.md",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router",
     "PRESENTATION",
@@ -211,7 +212,6 @@
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-개념.md",
-    "FE-WEB/tanstack-query/WIP-prefetch.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",

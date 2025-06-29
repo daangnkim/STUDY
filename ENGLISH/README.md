@@ -59,3 +59,6 @@
 - gloss over / 대충 넘어가다
 - meticulously / 세심하게
 - kick off / 시작하다, 개시하다, 착수하다
+- stick around / 지속되다
+- i am through with / ~ 에 지쳤다.
+- shenanigans / 미국 속어로, 속임수
