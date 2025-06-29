@@ -13,6 +13,9 @@ FE에서 router는 route 기능 이상의 역할을 제공한다.
 3. preload
 4. scroll restoration
 
+등
+
+
 
 
 FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
@@ -23,8 +26,6 @@ FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
 
 
 
-
-## react-router를 쓰면서 좋았던 점
 
 ## react-router에 대해서 아쉬웠던 점
 
