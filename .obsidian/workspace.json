@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-router.md",
+                "file": "PRESENTATION/router/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-router"
+              "title": "index"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "ce857f05764f78a7",
   "lastOpenFiles": [
+    "PRESENTATION/router",
+    "PRESENTATION",
     "ENGLISH/README.md",
-    "FE-WEB/react-router/WIP-router.md",
+    "PRESENTATION/router/index.md",
     "FE-WEB/bundler/package-deploy.md",
     "README.md",
     "독자-AI-파운데이션-모델.md",
@@ -208,7 +210,6 @@
     "AI/빅데이터-분석기사-실기-문제풀이.md",
     "AI/빅데이터-분석기사-개념.md",
     "FE-WEB/tanstack-query/WIP-prefetch.md",
-    "FE-WEB/tanstack-query/generic-type-관련.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
@@ -226,7 +227,6 @@
     "ALGORITHM/dp-vs-greedy",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png",
-    "ALGORITHM",
-    "RETROSPECTIVE"
+    "ALGORITHM"
   ]
 }
