@@ -13,10 +13,6 @@ FE에서 router는 route 기능 이상의 역할을 제공한다.
 3. preload
 4. scroll restoration
 
-등
-
-
-
 
 FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
 
@@ -26,19 +22,16 @@ FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
 
 
 
-
 ## react-router에 대해서 아쉬웠던 점
 
 ### 1. 문서
 ### 2. Framework 모드의
 
 - 문서가 구리다.
-	- Outlet의 최적화에 대한 설명이 없음.
-		- 딱딱한 Layout 컴포넌트가 구현됨
-	- loader의 유효성
 	- Framework 모드의 불편함
 		- import를 하나하나 다해줘야함.
-	- typing이 제대로 안된다.
+	- typing 지원이 약하다.
+	- 
 
 
 - 타이핑이 잘 안된다. 특히 query parameter와 엮이는 순간 코드가 매우 지저분해진다.
