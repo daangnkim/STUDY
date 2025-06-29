@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
+                "file": "FE-WEB/react-router/WIP-router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-ts-router-vs-react-router-wouter"
+              "title": "WIP-router"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "ce857f05764f78a7",
   "lastOpenFiles": [
     "ENGLISH/README.md",
-    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
+    "FE-WEB/react-router/WIP-router.md",
     "FE-WEB/bundler/package-deploy.md",
     "README.md",
     "독자-AI-파운데이션-모델.md",
