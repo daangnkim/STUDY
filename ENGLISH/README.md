@@ -64,3 +64,4 @@
 - shenanigans / 미국 속어로, 속임수
 - dope / 멋진, 훌륭한
 - plethora / 과할 정도로 넘쳐나는
+- slim to none / 거의 없다.
