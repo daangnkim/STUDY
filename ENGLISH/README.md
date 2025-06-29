@@ -63,3 +63,4 @@
 - i am through with / ~ 에 지쳤다.
 - shenanigans / 미국 속어로, 속임수
 - dope / 멋진, 훌륭한
+- plethora / 과할 정도로 넘쳐나는
