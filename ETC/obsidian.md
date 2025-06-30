@@ -1,6 +1,6 @@
 ## 단축키
 - 사이드바 on/off - (직접 할당) `CMD` + `[`가 왼쪽 사이드바 접힘, `CMD` + `]`가 오른쪽 사이드바 접힘
-- 
+- split right - (직접 할당) `CMD` + R
 
 ## 개념
 - Valut의 개념 Create a vault - Obsidian Help

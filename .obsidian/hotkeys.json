@@ -14,5 +14,14 @@
       ],
       "key": "]"
     }
+  ],
+  "workspace:goto-tab-3": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
