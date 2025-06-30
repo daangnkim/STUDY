@@ -1,16 +1,46 @@
-## react-router를 쓰면서 느꼈던 점
+## 목차
+
+1. router의 다양한 기능들
+2. react-router가 별로였던점
+3. tanstack-router와의 비교
+
+## react-router의 다양한 기능들
+
+FE에서 router는 route 기능 이상의 역할을 제공한다.
+
+1. code split
+2. loader
+3. preload
+4. scroll restoration
+
+
+FE에서 라우팅을 위한 선택지는 크게 다음과 같이 존재한다.
+
+1. wouter
+2. react-router
+3. tanstack-router
+
+
+
+## react-router에 대해서 아쉬웠던 점
+
+### 1. 문서
+### 2. Framework 모드의
 
 - 문서가 구리다.
+	- Framework 모드의 불편함
+		- import를 하나하나 다해줘야함.
+	- typing 지원이 약하다.
+	- boilerplate 코드가 많다.
+
 - 타이핑이 잘 안된다. 특히 query parameter와 엮이는 순간 코드가 매우 지저분해진다.
 - 파일 경로 설정이 애매하다.
-- loader가 매력적이다.
-
 
 ## ts-router
 
 - 타입스크립트가 라우트에 대한 타입을 가능한한 최대한 추론하게 하는 것이 목표다.
-- 
-
+	- 파일 생성하면서 템플릿이 자동으로 생성됨
+	- 
 
 
 ## react-router에 대한 사람들의 평가
@@ -31,3 +61,4 @@
 [Decisions on Developer Experience | TanStack Router React Docs](https://tanstack.com/router/latest/docs/framework/react/decisions-on-dx)
 
 [molefrog/wouter: 🥢 A minimalist-friendly ~2.1KB routing for React and Preact](https://github.com/molefrog/wouter)
+

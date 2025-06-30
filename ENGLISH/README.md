@@ -51,6 +51,17 @@
 - barebone / 기본적인 골격만 있는 상태
 - afterthought / 뒤늦은 생각
 - inception / 시작
-- facent of / ~의 측면, 양상
+- facet of / ~의 측면, 양상
 - deviate from the norms / ~관례에서 벗아나다
 - out of the question / 논의할 가치가 없는
+- anatomy of / ~ 의 구조 분석
+- whilst / while과 동일한, 영국식 영어
+- gloss over / 대충 넘어가다
+- meticulously / 세심하게
+- kick off / 시작하다, 개시하다, 착수하다
+- stick around / 지속되다
+- i am through with / ~ 에 지쳤다.
+- shenanigans / 미국 속어로, 속임수
+- dope / 멋진, 훌륭한
+- plethora / 과할 정도로 넘쳐나는
+- slim to none / 거의 없다.

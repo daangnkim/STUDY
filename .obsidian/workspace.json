@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "8c60b831b58f06c1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,12 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682fd85170962174",
+  "active": "8c60b831b58f06c1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "PRESENTATION/router/ppt.key",
+    "PRESENTATION/router/index.md",
+    "PRESENTATION/router",
+    "PRESENTATION",
     "DB/postgresql/instructions.md",
     "SPRING/의존성.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
-    "conflict-files-obsidian-git.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
     "ETC/intellij.md",
     "ETC/obsidian.md",
@@ -206,8 +225,6 @@
     "FE-WEB/typescript/WIP-as-const.md",
     "FE-WEB/typescript/WIP-error.md",
     "ENGLISH/README.md",
-    "ENGLISH/Untitled.md",
-    "FE-WEB/react-hook-form/common-issue.md",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
@@ -221,11 +238,8 @@
     "FE-WEB/react-hook-form",
     "FE-WEB/Untitled",
     "DB/cover-image.png",
-    "ALGORITHM/dp-vs-greedy",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "Pasted image 20250531174013.png",
-    "ALGORITHM",
-    "NETWORK/cover-image.png",
-    "RETROSPECTIVE"
+    "NETWORK/cover-image.png"
   ]
 }
