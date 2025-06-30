@@ -115,5 +115,9 @@ cascade는 parent entity에서 child entity로 전파되는 `persist`, `remove` 
 ## Column
 
 #### @Column(columnDefinition = "TEXT")
-
 JPA가 자동으로 SQL 컬럼 타입을 정하기 전에, 직접 명시할 수 있다. "TEXT" type은 대량의 텍스트를 저장하기 위한 타입으다. 
+
+****
+
+### @Tag
+ㄷ
