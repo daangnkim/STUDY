@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETC/intellij.md",
+                "file": "SPRING/annotation/WIP-annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intellij"
+              "title": "WIP-annotation"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "09c1fb38ba9d1f40",
   "lastOpenFiles": [
-    "ETC/obsidian.md",
     "ETC/intellij.md",
+    "ETC/obsidian.md",
     "ETC/커버이미지.png",
     "ETC/여러-github-계정-세팅.md",
     "ETC/license/Pasted image 20250525150034.png",
