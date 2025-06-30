@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0966deb5de2f1038",
+        "id": "2423e017aa31225c",
         "type": "tabs",
         "children": [
           {
-            "id": "24706274c7188887",
+            "id": "09c1fb38ba9d1f40",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "ETC/obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "8c60b831b58f06c1",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "obsidian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -194,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c60b831b58f06c1",
+  "active": "09c1fb38ba9d1f40",
   "lastOpenFiles": [
+    "ETC/intellij.md",
+    "ETC/커버이미지.png",
     "conflict-files-obsidian-git.md",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router/index.md",
@@ -205,7 +193,6 @@
     "SPRING/의존성.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
-    "ETC/intellij.md",
     "ETC/obsidian.md",
     "FE-WEB/react/error-boundary.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
@@ -233,7 +220,6 @@
     "FE-WEB/html+css+browser",
     "FE-WEB/동작원리",
     "AI",
-    "ETC/커버이미지.png",
     "FE-WEB/react-router",
     "FE-WEB/react-hook-form",
     "FE-WEB/Untitled",
