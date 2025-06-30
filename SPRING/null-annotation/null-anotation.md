@@ -33,7 +33,7 @@ public interface UserService {
 ![alt text](SPRING/null-annotation/image.png)
 
 1. `@NotNull`
-   null을 허용하지 않는다. 다만 빈 문자열 + 공백만을 포함한 문자열은 유효하다.2
+   null을 허용하지 않는다. 다만 빈 문자열 + 공백만을 포함한 문자열은 유효하다.
 
    ```java
    public class User {
@@ -89,3 +89,7 @@ public class ComplexValidationExample {
 ### References
 
 [Difference Between @NotNull, @NotEmpty, and @NotBlank](https://www.byteplus.com/en/topic/407512?title=difference-between-notnull-notempty-and-notblank-in-java-bean-validation)
+
+## @NotNull vs @Column(nullable = false)
+
+[Hibernate @NotNull vs @Column(nullable = false) | Baeldung](https://www.baeldung.com/hibernate-notnull-vs-nullable)

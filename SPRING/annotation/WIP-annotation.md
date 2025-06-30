@@ -84,15 +84,20 @@ cascade는 parent entity에서 child entity로 전파되는 `persist`, `remove` 
 ****
 ## @AllArgsConstructor vs @RequiredArgsConstructor vs @NoArgsConstructor + @Data
 
+
+참고로 constructor란, 인스턴스가 생성될때 호출되는 메서드로, 클래스와 동일한 이름을 가지고있다. 만약 constructor가 private인 경우, class 외부에서 new 연산자 호출이 불가하다.
+default constructor는 어떠한 constructor도 기입하지 않았을 때 자바 컴파일러가 자동으로 생성되는 no-args constructor이다.
+[Java Constructors (With Examples)](https://www.programiz.com/java-programming/constructors)
+
+
+
 ![](SPRING/annotation/image-1.png)
 
-모든 persistent 클래스들은 no-args constructor가 필요하다. 그렇기 때문에 `@AllArgsConstructor`를 사용하는 경우 `@NoArgsConstructor`도 반드시 사용해야한다.
+JPA 명세상 모든 persistent 클래스들은 no-args constructor가 필요하다. 그렇기 때문에 `@AllArgsConstructor`를 사용하는 경우 `@NoArgsConstructor`도 반드시 사용해야한다.
 
 
 [Difference Between Lombok @AllArgsConstructor, @RequiredArgsConstructor and @NoArgConstructor | Baeldung](https://www.baeldung.com/java-lombok-constructor-annotations-comparison)
-
 [spring boot - Why to use @AllArgsConstructor and @NoArgsConstructor together over an Entity? - Stack Overflow](https://stackoverflow.com/questions/68314072/why-to-use-allargsconstructor-and-noargsconstructor-together-over-an-entity)
-
 [@Data Annotation In SpringBoot - Avinashsoni - Medium](https://medium.com/@avinashsoni9829/data-annotation-in-springboot-dc18ae965e9c)
 
 ****
@@ -120,4 +125,15 @@ JPA가 자동으로 SQL 컬럼 타입을 정하기 전에, 직접 명시할 수 
 ****
 
 ### @Tag
-ㄷ
+
+
+---
+
+## @Auditing
+[Auditing :: Spring Data JPA](https://docs.spring.io/spring-data/jpa/reference/auditing.html)
+
+
+----
+
+## @EntityListener
+[JPA Entity Lifecycle Events | Baeldung](https://www.baeldung.com/jpa-entity-lifecycle-events)
