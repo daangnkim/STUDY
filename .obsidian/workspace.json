@@ -13,13 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "ENGLISH/Untitled.md",
-                "bFile": "ENGLISH/Untitled.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Untitled"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -180,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24706274c7188887",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
-    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "DB/postgresql/instructions.md",
+    "SPRING/의존성.md",
+    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "conflict-files-obsidian-git.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
     "ETC/intellij.md",
@@ -208,7 +208,6 @@
     "ENGLISH/README.md",
     "ENGLISH/Untitled.md",
     "FE-WEB/react-hook-form/common-issue.md",
-    "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
