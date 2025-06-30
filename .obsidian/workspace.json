@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETC/obsidian.md",
+                "file": "ETC/intellij.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian"
+              "title": "intellij"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "09c1fb38ba9d1f40",
   "lastOpenFiles": [
+    "ETC/obsidian.md",
     "ETC/intellij.md",
     "ETC/커버이미지.png",
+    "ETC/여러-github-계정-세팅.md",
+    "ETC/license/Pasted image 20250525150034.png",
     "conflict-files-obsidian-git.md",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router/index.md",
@@ -193,7 +196,6 @@
     "SPRING/의존성.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
     "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
-    "ETC/obsidian.md",
     "FE-WEB/react/error-boundary.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
@@ -211,7 +213,6 @@
     "FE-WEB/typescript/satisfies.md",
     "FE-WEB/typescript/WIP-as-const.md",
     "FE-WEB/typescript/WIP-error.md",
-    "ENGLISH/README.md",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
@@ -225,7 +226,6 @@
     "FE-WEB/Untitled",
     "DB/cover-image.png",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
-    "Pasted image 20250531174013.png",
-    "NETWORK/cover-image.png"
+    "Pasted image 20250531174013.png"
   ]
 }

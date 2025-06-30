@@ -1,5 +1,6 @@
-- 창분리 : (CUSTOM) CMD + OPT + ]
+- 창분리 : (커스텀) CMD + OPT + ]
 - 창이동 : Option + Tab
+- 오른쪽 사이드바 접기 : 
 - 동일한 단어 검색 : CTL + G
 - 동일한 단어 모두 검색 : CTL + CMD + G
 
