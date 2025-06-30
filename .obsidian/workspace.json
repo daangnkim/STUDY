@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "d1872c0a436fc2c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "001c05196d1e1361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETC/obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -167,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09c1fb38ba9d1f40",
+  "active": "001c05196d1e1361",
   "lastOpenFiles": [
     "ETC/intellij.md",
     "ETC/커버이미지.png",
