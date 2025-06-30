@@ -1,5 +1,5 @@
 ## 단축키
-- 
+- 사이드바 on/off
 
 ## 개념
 - Valut의 개념 Create a vault - Obsidian Help
