@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
+                "file": "FE-WEB/tanstack-query/WIP-request-waterfall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-18버전-이후-새로운-훅"
+              "title": "WIP-request-waterfall"
             }
           }
         ]
@@ -182,9 +182,17 @@
   },
   "active": "55e84c118e612b7c",
   "lastOpenFiles": [
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+    "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
+    "FE-WEB/react/pure-component.md",
+    "FE-WEB/react/folder-structure.md",
+    "FE-WEB/react/error-boundary.md",
+    "FE-WEB/react/렌더링을-위한-세가지-phase.md",
+    "FE-WEB/react/concurrent-rendering/WIP-concurrent-rendering.md",
+    "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
     "FE-WEB/react/WIP-react19.md",
     "FE-WEB/react/WIP-react-router-dom의_세가지_타입.md",
-    "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
     "SPRING/WIP-persist.md",
     "SPRING/null-annotation/null-anotation.md",
     "SPRING/annotation/WIP-annotation.md",
@@ -202,19 +210,11 @@
     "JAVA/constructor.md",
     "SPRING/image.png",
     "ETC/intellij.md",
-    "ETC/obsidian.md",
     "ETC/커버이미지.png",
-    "ETC/여러-github-계정-세팅.md",
     "ETC/license/Pasted image 20250525150034.png",
-    "conflict-files-obsidian-git.md",
     "PRESENTATION/router/ppt.key",
-    "PRESENTATION/router/index.md",
     "PRESENTATION/router",
     "PRESENTATION",
-    "DB/postgresql/instructions.md",
-    "FE-WEB/react-router/WIP-ts-router-vs-react-router-wouter.md",
-    "FE-WEB/react-router/WIP-ts-router-vs-react-router.md",
-    "FE-WEB/react/error-boundary.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
