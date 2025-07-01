@@ -41,8 +41,6 @@ fresh content가 로드되는 동안 stale content를 보여주기 위해 사용
 3. concurrent rendering을 실제로 쓰는 경우라면 웹페이지 렌더링이되게 오래 걸리는 페이지여야 할거같은데, 그정도로 오래 걸리는 경우가 있나?
 4. It's a result of how the new concurrent renderer works. In concurrent mode, React prepares the new screen (or the updated state of a component) in memory before it updates the DOM. This is known as "rendering in memory" or "offscreen rendering". 메모리에 미리 저장한다는 말이 무슨 말이지?
 
-- [React useTransition: performance game changer or...?](https://www.developerway.com/posts/use-transition)
-
-- [Exploring React Concurrent Mode: Unlocking Its Potential](https://www.dhiwise.com/post/deep-dive-into-react-concurrent-mode-exploring-key-features-and-use-cases)
-
-- [React 18 Concurrent Rendering: What You Need to Know - SDLC Corp](https://sdlccorp.com/post/react-18-concurrent-rendering-what-you-need-to-know/)
+[React useTransition: performance game changer or...?](https://www.developerway.com/posts/use-transition)
+[Exploring React Concurrent Mode: Unlocking Its Potential](https://www.dhiwise.com/post/deep-dive-into-react-concurrent-mode-exploring-key-features-and-use-cases)
+[React 18 Concurrent Rendering: What You Need to Know - SDLC Corp](https://sdlccorp.com/post/react-18-concurrent-rendering-what-you-need-to-know/)
