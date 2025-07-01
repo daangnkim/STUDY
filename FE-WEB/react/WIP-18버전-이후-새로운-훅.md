@@ -15,7 +15,7 @@ concurrent rendering에서 설명한다.
 ## useImperativeHandle (v18)
 
 리액트는 기본적으로 declarative하지만 어쩔 수 없이 imperative 해야할 때 사용한다.
-부모 컴포넌트가 자식 컴포넌트의 DOM 요소의 exposed handle을 결정한다.
+부모 컴포넌트가 자식 컴포넌트의 DOM 요소의 exposed handle(부모 컴포는트가 사용할 수 있는 메서드들)을 결정한다.
 두 번째 인자인 `createHandle`은 ref에 할당된다. 세 번째 인자가 변경될 때만 createHandle 함수가 재생성된다.
 `createHandle` 반환 객체의 메서드명은 DOM 요소의 이름을 따르지 않아도 된다.
 
