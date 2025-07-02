@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "02d7dc36979e6e50",
+        "id": "8681671d45948d18",
         "type": "tabs",
         "children": [
           {
-            "id": "eef41160ddb24881",
+            "id": "7679bffdd3575055",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "FE-WEB/html+css+browser/WIP-number.md",
+                "bFile": "FE-WEB/html+css+browser/WIP-number.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: WIP-number"
             }
           }
         ]
@@ -162,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eef41160ddb24881",
+  "active": "682fd85170962174",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "FE-WEB/html+css+browser/preprocessor-postprocessor/WIP-preprocessor와_postprocessor.md",
+    "FE-WEB/html+css+browser/WIP-number.md",
     "PRESENTATION/router/index.md",
     "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF",
     "FE-WEB/react-router/WIP-loader.md",
@@ -194,7 +201,6 @@
     "FE-WEB/bundler/package-deploy.md",
     "README.md",
     "독자-AI-파운데이션-모델.md",
-    "conflict-files-obsidian-git.md",
     "SPRING/keyword.md",
     "SPRING/ioc-container.md",
     "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
@@ -209,7 +215,6 @@
     "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "AI/빅데이터-분석기사-시험-전-읽을 것.md",
-    "AI/빅데이터-분석기사-실기-문제풀이.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",

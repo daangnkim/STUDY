@@ -65,3 +65,4 @@
 - dope / 멋진, 훌륭한
 - plethora / 과할 정도로 넘쳐나는
 - slim to none / 거의 없다.
+- in favor of / ~ 을 선호하여
