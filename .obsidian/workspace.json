@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+                "file": "ENGLISH/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-request-waterfall"
+              "title": "README"
             }
           }
         ]
@@ -182,8 +182,20 @@
   },
   "active": "55e84c118e612b7c",
   "lastOpenFiles": [
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/react-router/WIP-prefetch.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
+    "FE-WEB/react-router/WIP-loader.md",
+    "FE-WEB/react-router/WIP-라우팅의-종류.md",
+    "FE-WEB/react-router/WIP-error.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+    "FE-WEB/react/useLayoutEffect/image.png",
+    "FE-WEB/react/WIP-handling-error.md",
+    "FE-WEB/react/WIP-react19.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
+    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/WIP-prefetch.md",
     "FE-WEB/react/path-to-a-clean-react-architecture-series.md",
     "FE-WEB/react/pure-component.md",
     "FE-WEB/react/folder-structure.md",
@@ -191,7 +203,6 @@
     "FE-WEB/react/렌더링을-위한-세가지-phase.md",
     "FE-WEB/react/concurrent-rendering/WIP-concurrent-rendering.md",
     "FE-WEB/react/WIP-18버전-이후-새로운-훅.md",
-    "FE-WEB/react/WIP-react19.md",
     "FE-WEB/react/WIP-react-router-dom의_세가지_타입.md",
     "SPRING/WIP-persist.md",
     "SPRING/null-annotation/null-anotation.md",
@@ -199,17 +210,7 @@
     "SPRING/annotation/image-1.png",
     "SPRING/WIP-DTO.md",
     "SPRING/README.md",
-    "SPRING/lombok.md",
-    "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
-    "SPRING/multithread.md",
-    "SPRING/keyword.md",
-    "SPRING/bean.md",
-    "SPRING/의존성.md",
-    "SPRING/폴더구조.md",
-    "SPRING/프로젝트-설정.md",
-    "JAVA/constructor.md",
     "SPRING/image.png",
-    "ETC/intellij.md",
     "ETC/커버이미지.png",
     "ETC/license/Pasted image 20250525150034.png",
     "PRESENTATION/router/ppt.key",
@@ -226,7 +227,6 @@
     "AI",
     "FE-WEB/react-router",
     "FE-WEB/react-hook-form",
-    "FE-WEB/Untitled",
-    "DB/cover-image.png"
+    "FE-WEB/Untitled"
   ]
 }
