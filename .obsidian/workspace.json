@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55e84c118e612b7c",
+  "active": "277dfbd375bb177d",
   "lastOpenFiles": [
+    "ENGLISH/README.md",
+    "conflict-files-obsidian-git.md",
     "FE-WEB/react-router/WIP-prefetch.md",
     "FE-WEB/react-router/WIP-picking-mode.md",
     "FE-WEB/react-router/WIP-loader.md",
@@ -208,8 +209,6 @@
     "SPRING/null-annotation/null-anotation.md",
     "SPRING/annotation/WIP-annotation.md",
     "SPRING/annotation/image-1.png",
-    "SPRING/WIP-DTO.md",
-    "SPRING/README.md",
     "SPRING/image.png",
     "ETC/커버이미지.png",
     "ETC/license/Pasted image 20250525150034.png",
