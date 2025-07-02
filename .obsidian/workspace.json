@@ -11,15 +11,14 @@
             "id": "7679bffdd3575055",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "FE-WEB/html+css+browser/WIP-number.md",
-                "bFile": "FE-WEB/html+css+browser/WIP-number.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "PRESENTATION/router/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: WIP-number"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -180,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682fd85170962174",
+  "active": "7679bffdd3575055",
   "lastOpenFiles": [
+    "FE-WEB/WIP-performance.md",
     "conflict-files-obsidian-git.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/WIP-preprocessor와_postprocessor.md",
     "FE-WEB/html+css+browser/WIP-number.md",
@@ -214,7 +214,6 @@
     "FE-WEB/tanstack-query/옵션-리스트.md",
     "FE-WEB/tanstack-query/refetch-관련-옵션.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
-    "AI/빅데이터-분석기사-시험-전-읽을 것.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
