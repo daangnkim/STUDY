@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8681671d45948d18",
+        "id": "d498a5ed131cf9d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7679bffdd3575055",
+            "id": "45bd20bcc17328af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRESENTATION/router/index.md",
+                "file": "FE-WEB/html+css+browser/css-terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "css-terms"
+            }
+          },
+          {
+            "id": "be608c44f90f3100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE-WEB/typescript/satisfies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "satisfies"
+            }
+          },
+          {
+            "id": "70bcd81e7e20cc32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE-WEB/typescript/유용한-타입.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "유용한-타입"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "number",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,53 +208,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7679bffdd3575055",
+  "active": "70bcd81e7e20cc32",
   "lastOpenFiles": [
-    "FE-WEB/WIP-performance.md",
-    "conflict-files-obsidian-git.md",
-    "FE-WEB/html+css+browser/preprocessor-postprocessor/WIP-preprocessor와_postprocessor.md",
+    "FE-WEB/typescript/satisfies.md",
+    "FE-WEB/typescript/유용한-타입.md",
+    "FE-WEB/typescript/WIP-as-const.md",
     "FE-WEB/html+css+browser/WIP-number.md",
-    "PRESENTATION/router/index.md",
-    "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF",
-    "FE-WEB/react-router/WIP-loader.md",
-    "SPRING/WIP-persist.md",
-    "FE-WEB/react-router/WIP-picking-mode.md",
-    "FE-WEB/react-router/WIP-prefetch.md",
+    "FE-WEB/html+css+browser/css-terms.md",
+    "FE-WEB/html+css+browser/hypertext.md",
+    "FE-WEB/html+css+browser/preprocessor-postprocessor/WIP-preprocessor와_postprocessor.md",
+    "FE-WEB/html+css+browser/WIP-PWA.md",
+    "FE-WEB/html+css+browser/xml-vs-html.md",
+    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
+    "FE-WEB/html+css+browser/WIP-페이지간-데이터-전달-방법.md",
+    "FE-WEB/html+css+browser/WIP-까다로운-css.md",
+    "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
+    "SPRING/bean.md",
+    "FE-WEB/tanstack-query/WIP-architecture.md",
     "ENGLISH/README.md",
-    "PRESENTATION/router/ppt.key.sb-30e30b40-nj8PGp",
-    "FE-WEB/react-router/WIP-picking-a-router.md",
-    "PRESENTATION/router/ppt.key.sb-30e30b40-bOnTgp",
+    "conflict-files-obsidian-git.md",
+    "FE-WEB/react-router/WIP-prefetch.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
+    "FE-WEB/react-router/WIP-loader.md",
+    "FE-WEB/react-router/WIP-라우팅의-종류.md",
+    "FE-WEB/react-router/WIP-error.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+    "FE-WEB/react/useLayoutEffect/image.png",
+    "FE-WEB/react/WIP-handling-error.md",
+    "FE-WEB/react/WIP-react19.md",
+    "FE-WEB/tanstack-query/WIP-infinity-scroll.md",
+    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
+    "SPRING/annotation/image-1.png",
+    "SPRING/image.png",
+    "ETC/커버이미지.png",
+    "ETC/license/Pasted image 20250525150034.png",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router",
     "PRESENTATION",
-    "FE-WEB/bundler/package-deploy.md",
-    "README.md",
-    "독자-AI-파운데이션-모델.md",
-    "SPRING/keyword.md",
-    "SPRING/ioc-container.md",
-    "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
-    "SPRING/annotation/WIP-annotation.md",
-    "FE-WEB/react-router/WIP-error.md",
-    "DESIGN-PATTERN/README.md",
-    "DESIGN-PATTERN/커버_이미지.png",
-    "DESIGN-PATTERN/객체지향-관련-용어.md",
-    "ENGLISH/Untitled.md",
-    "FE-WEB/react-router/WIP-react-router-에대한-평가.md",
-    "FE-WEB/tanstack-query/옵션-리스트.md",
-    "FE-WEB/tanstack-query/refetch-관련-옵션.md",
-    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "SECURITY/cover-image.png",
     "AI/Pasted image 20250610000716.png",
     "AI/Pasted image 20250610000711.png",
-    "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/image-1.png",
     "FE-WEB/html+css+browser/preprocessor-postprocessor",
     "FE-WEB/html+css+browser",
     "FE-WEB/동작원리",
     "AI",
-    "ETC/커버이미지.png",
-    "DB/cover-image.png",
-    "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
-    "Pasted image 20250531174013.png"
+    "FE-WEB/react-router",
+    "FE-WEB/react-hook-form",
+    "FE-WEB/Untitled"
   ]
 }
