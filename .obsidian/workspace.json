@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "NETWORK/HTTP-완벽가이드/1장-및-2장/3장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 3장"
             }
           },
           {
@@ -162,8 +162,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,20 +182,25 @@
   },
   "active": "591d37145c35c60a",
   "lastOpenFiles": [
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233945.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233924.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233912.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233902.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233848.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233840.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233818.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233806.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233750.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233738.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233729.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/1장-및-2장.md",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/3장.md",
     "NETWORK/HTTP-완벽가이드/3장",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706223846.png",
     "NETWORK/README.md",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706224405.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706224240.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706223907.png",
     "NETWORK/HTTP-완벽가이드",
-    "FE-WEB/cover-image.png",
     "NETWORK/oatuh.md",
     "conflict-files-obsidian-git.md",
-    "NETWORK/cover-image.png",
     "NETWORK/auth/session-vs-token.md",
     "FE-WEB/동작원리/이벤트루프.md",
     "FE-WEB/typescript/유용한-타입.md",
@@ -223,11 +227,6 @@
     "SPRING/ioc-container.md",
     "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
     "SPRING/annotation/WIP-annotation.md",
-    "FE-WEB/react-router/WIP-error.md",
-    "DESIGN-PATTERN/커버_이미지.png",
-    "SECURITY/cover-image.png",
-    "AI/Pasted image 20250610000716.png",
-    "AI/Pasted image 20250610000711.png",
     "FE-WEB/html+css+browser/preprocessor-postprocessor"
   ]
 }
