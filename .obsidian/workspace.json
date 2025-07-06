@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -182,6 +181,8 @@
   },
   "active": "591d37145c35c60a",
   "lastOpenFiles": [
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706234152.png",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706234144.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233945.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233924.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233912.png",
@@ -191,8 +192,6 @@
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233818.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233806.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233750.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233738.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233729.png",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/1장-및-2장.md",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/3장.md",
     "NETWORK/HTTP-완벽가이드/3장",
