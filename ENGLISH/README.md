@@ -66,3 +66,4 @@
 - plethora / 과할 정도로 넘쳐나는
 - slim to none / 거의 없다.
 - in favor of / ~ 을 선호하여
+- fanout / 하나의 소스에서 여러 목적지로 데이터를 전파/분산하는 패턴
