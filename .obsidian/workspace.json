@@ -11,12 +11,14 @@
             "id": "d1dafff7ae6d6b67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "NETWORK/cover-image.png"
+                "file": "ALGORITHM/problems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cover-image"
+              "icon": "lucide-file",
+              "title": "problems"
             }
           },
           {
@@ -191,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "277dfbd375bb177d",
+  "active": "d1dafff7ae6d6b67",
   "lastOpenFiles": [
+    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
+    "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
+    "NETWORK/cover-image.png",
     "NETWORK/네트워크-프로그래밍-책/3장.md",
     "NETWORK/네트워크-프로그래밍-책/1장-2장.md",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png",
@@ -203,12 +208,9 @@
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233635.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233628.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233617.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233608.png",
-    "NETWORK/cover-image.png",
     "NETWORK/네트워크-프로그래밍-책",
     "SECURITY/CSRF(Cross-Site Request Forgery).md",
     "ALGORITHM/problems.md",
-    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
     "ALGORITHM/floyd-cycle-detection.md",
     "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
     "SECURITY/CORS.md",
