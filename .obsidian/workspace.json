@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d498a5ed131cf9d5",
+        "id": "37232e984d3d6e97",
         "type": "tabs",
         "children": [
           {
-            "id": "45bd20bcc17328af",
+            "id": "5e96171b6848b1b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGLISH/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bd20bcc17328af",
+  "active": "5e96171b6848b1b7",
   "lastOpenFiles": [
+    "ENGLISH/README.md",
     "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
     "PRESENTATION/router/컨넥트엑스(ConnectX)_20250704.pdf",
     "FE-WEB/astro/아일랜드_아키텍쳐.md",
@@ -192,7 +189,6 @@
     "FE-WEB/html+css+browser/css-terms.md",
     "FE-WEB/typescript/satisfies.md",
     "FE-WEB/typescript/유용한-타입.md",
-    "ENGLISH/README.md",
     "SECURITY/CSRF(Cross-Site Request Forgery).md",
     "SECURITY/CORS.md",
     "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706234152.png",
