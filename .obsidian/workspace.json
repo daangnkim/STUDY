@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/stream.md",
+                "file": "DB/postgresql/instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stream"
+              "title": "instructions"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/stream.md",
+                "file": "DB/postgresql/instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for stream"
+              "title": "Backlinks for instructions"
             }
           },
           {
@@ -198,8 +197,8 @@
   },
   "active": "f4137ae15f9bfd37",
   "lastOpenFiles": [
-    "JAVA/classpath.md",
     "JAVA/stream.md",
+    "JAVA/classpath.md",
     "NETWORK/네트워크-프로그래밍-책/3장.md",
     "NETWORK/네트워크-프로그래밍-책/1장-2장.md",
     "ALGORITHM/problems.md",
