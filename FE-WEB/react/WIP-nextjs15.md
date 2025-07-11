@@ -27,3 +27,25 @@
 
 	조금 더 세분화된 스트리밍이 가능하다. 예를들면, `Suspense` 바운더리 바깥에 있는 컨텐츠를 즉시 보여줄수 있다. 
 
+
+### Sequential Data Fetching vs Parallel Data Fetching
+
+`async/await`를 나란히 배치하는 것이 아닌, `Promise.all`을 이용한다.
+
+```typescript
+
+  // 잘못된 접근
+  const { username } = await params
+  const artist = await getArtist(username)
+  const albums = await getAlbums(username)
+
+  // 올바른 접근
+  const { username } = await params
+  const artistData = getArtist(username)
+  const albumsData = getAlbums(username)
+ 
+  // Initiate both requests in parallel
+  const [artist, albums] = await Promise.all([artistData, albumsData])
+ 
+
+```
