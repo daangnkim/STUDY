@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64634246617d1720",
+        "id": "f0bcc9c035b78c37",
         "type": "tabs",
         "children": [
           {
-            "id": "a9594a2bfbca8b68",
+            "id": "53d2047b9521020c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-WEB/react/WIP-nextjs15.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WIP-nextjs15"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydrate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/postgresql/instructions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for instructions"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -142,17 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SECURITY/CSRF(Cross-Site Request Forgery).md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSRF(Cross-Site Request Forgery)"
+              "title": "Outline of README"
             }
           },
           {
-            "id": "a8b7f799a86d8633",
+            "id": "682fd85170962174",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,23 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9594a2bfbca8b68",
+  "active": "53d2047b9521020c",
   "lastOpenFiles": [
-    "FE-WEB/react/useReducer.md",
     "FE-WEB/react/WIP-nextjs15.md",
-    "ETC/intellij.md",
-    "DB/postgresql/instructions.md",
-    "DB/postgresql/postgresql.md",
-    "DB/prisma/instructions.md",
-    "JAVA/classpath.md",
-    "conflict-files-obsidian-git.md",
-    "JAVA/stream.md",
-    "NETWORK/네트워크-프로그래밍-책/3장.md",
-    "NETWORK/네트워크-프로그래밍-책/1장-2장.md",
-    "ALGORITHM/problems.md",
-    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
-    "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
-    "NETWORK/cover-image.png",
+    "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234143.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233706.png",
@@ -204,28 +187,41 @@
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233635.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233628.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233617.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233608.png",
+    "NETWORK/네트워크-프로그래밍-책/3장.md",
+    "NETWORK/네트워크-프로그래밍-책/1장-2장.md",
     "NETWORK/네트워크-프로그래밍-책",
-    "SECURITY/CSRF(Cross-Site Request Forgery).md",
-    "ALGORITHM/floyd-cycle-detection.md",
-    "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
-    "SECURITY/CORS.md",
+    "NETWORK/HTTP-완벽가이드-책/1장-및-2장/Pasted image 20250706234152.png",
     "NETWORK/HTTP-완벽가이드-책/1장-및-2장/3장.md",
     "NETWORK/HTTP-완벽가이드-책/1장-및-2장/1장-및-2장.md",
-    "NETWORK/HTTP-완벽가이드-책/3장",
-    "NETWORK/README.md",
     "NETWORK/HTTP-완벽가이드-책/1장-및-2장",
     "NETWORK/HTTP-완벽가이드-책",
-    "NETWORK/oatuh.md",
-    "NETWORK/auth/session-vs-token.md",
-    "FE-WEB/동작원리/이벤트루프.md",
-    "FE-WEB/typescript/유용한-타입.md",
-    "PRESENTATION/router/index.md",
+    "JAVA/stream.md",
+    "ENGLISH/README.md",
+    "PRESENTATION/router/컨넥트엑스(ConnectX)_20250704.pdf",
+    "FE-WEB/astro/아일랜드_아키텍쳐.md",
+    "ALGORITHM/floyd-cycle-detection.md",
+    "FE-WEB/README.md",
     "FE-WEB/WIP-performance.md",
-    "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF",
-    "PRESENTATION/router/ppt.key.sb-30e30b40-nj8PGp",
-    "PRESENTATION/router/ppt.key.sb-30e30b40-bOnTgp",
+    "FE-WEB/storybook.md",
+    "FE-WEB/html+css+browser/css-terms.md",
+    "FE-WEB/typescript/satisfies.md",
+    "FE-WEB/typescript/유용한-타입.md",
+    "SECURITY/CSRF(Cross-Site Request Forgery).md",
+    "SECURITY/CORS.md",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/3장.md",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장/1장-및-2장.md",
+    "NETWORK/HTTP-완벽가이드/1장-및-2장",
+    "NETWORK/HTTP-완벽가이드",
+    "FE-WEB/typescript/WIP-as-const.md",
+    "FE-WEB/html+css+browser/WIP-number.md",
+    "FE-WEB/html+css+browser/hypertext.md",
+    "FE-WEB/html+css+browser/preprocessor-postprocessor/WIP-preprocessor와_postprocessor.md",
+    "FE-WEB/html+css+browser/WIP-PWA.md",
+    "FE-WEB/html+css+browser/xml-vs-html.md",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router",
-    "PRESENTATION"
+    "PRESENTATION",
+    "FE-WEB/html+css+browser/preprocessor-postprocessor"
   ]
 }
