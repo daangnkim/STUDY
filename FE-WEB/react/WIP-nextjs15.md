@@ -1,8 +1,8 @@
 ## [File-system conventions: Parallel Routes | Next.js](https://nextjs.org/docs/app/api-reference/file-conventions/parallel-routes)
 
 Parallel Routes는 동일한 레이아웃 내에서 하나 이상의 페이지를 동시에 혹은 선택적으로 렌더링할수 있다.
-Parallel Routes는 Slot을 이용해서 생성된다. Slot은 공유되는 부모의 레이아웃에 전달된다. 
-
+Parallel Routes는 slot을 이용해서 생성된다. slot은 공유되는 부모의 레이아웃에 전달된다. 
+모든 slot은 정적이거나 동적이거나 둘중 하나여야한다.
 
 ## [Getting Started: Project Structure | Next.js](https://nextjs.org/docs/app/getting-started/project-structure)
 
