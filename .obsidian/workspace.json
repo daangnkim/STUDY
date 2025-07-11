@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "42305e0ff57292b0",
+        "id": "64634246617d1720",
         "type": "tabs",
         "children": [
           {
-            "id": "adc9fd6ca60cfb91",
+            "id": "353b4f2e40f339b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
+                "file": "JAVA/classpath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "푸시-알람-동작원리"
+              "title": "classpath"
+            }
+          },
+          {
+            "id": "f4137ae15f9bfd37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/stream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stream"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydrate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JAVA/stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for stream"
             }
           },
           {
@@ -142,17 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "SECURITY/CSRF(Cross-Site Request Forgery).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of CSRF(Cross-Site Request Forgery)"
             }
           },
           {
-            "id": "682fd85170962174",
+            "id": "a8b7f799a86d8633",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,52 +195,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adc9fd6ca60cfb91",
+  "active": "f4137ae15f9bfd37",
   "lastOpenFiles": [
-    "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
-    "ENGLISH/README.md",
-    "PRESENTATION/router/컨넥트엑스(ConnectX)_20250704.pdf",
-    "FE-WEB/astro/아일랜드_아키텍쳐.md",
-    "ALGORITHM/floyd-cycle-detection.md",
-    "FE-WEB/README.md",
-    "FE-WEB/WIP-performance.md",
-    "FE-WEB/storybook.md",
-    "FE-WEB/html+css+browser/css-terms.md",
-    "FE-WEB/typescript/satisfies.md",
-    "FE-WEB/typescript/유용한-타입.md",
+    "JAVA/classpath.md",
+    "JAVA/stream.md",
+    "NETWORK/네트워크-프로그래밍-책/3장.md",
+    "NETWORK/네트워크-프로그래밍-책/1장-2장.md",
+    "ALGORITHM/problems.md",
+    "conflict-files-obsidian-git.md",
+    "ALGORITHM/dp-vs-greedy/dp-vs-greedy.md",
+    "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
+    "NETWORK/cover-image.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234143.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233706.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233656.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233645.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233635.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233628.png",
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233617.png",
+    "NETWORK/네트워크-프로그래밍-책",
     "SECURITY/CSRF(Cross-Site Request Forgery).md",
+    "ALGORITHM/floyd-cycle-detection.md",
+    "FE-WEB/html+css+browser/푸시-알람-동작원리.md",
     "SECURITY/CORS.md",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706234152.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706234144.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233945.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233924.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233912.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233902.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233848.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233840.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233818.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/Pasted image 20250706233806.png",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/3장.md",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장/1장-및-2장.md",
-    "NETWORK/HTTP-완벽가이드/1장-및-2장",
-    "NETWORK/HTTP-완벽가이드",
-    "FE-WEB/typescript/WIP-as-const.md",
-    "FE-WEB/html+css+browser/WIP-number.md",
-    "FE-WEB/html+css+browser/hypertext.md",
+    "NETWORK/HTTP-완벽가이드-책/1장-및-2장/3장.md",
+    "NETWORK/HTTP-완벽가이드-책/1장-및-2장/1장-및-2장.md",
+    "NETWORK/HTTP-완벽가이드-책/3장",
+    "NETWORK/README.md",
+    "NETWORK/HTTP-완벽가이드-책/1장-및-2장",
+    "NETWORK/HTTP-완벽가이드-책",
+    "NETWORK/oatuh.md",
+    "NETWORK/auth/session-vs-token.md",
+    "FE-WEB/동작원리/이벤트루프.md",
+    "FE-WEB/typescript/유용한-타입.md",
+    "PRESENTATION/router/index.md",
+    "FE-WEB/WIP-performance.md",
     "FE-WEB/html+css+browser/preprocessor-postprocessor/WIP-preprocessor와_postprocessor.md",
-    "FE-WEB/html+css+browser/WIP-PWA.md",
-    "FE-WEB/html+css+browser/xml-vs-html.md",
-    "FE-WEB/html+css+browser/WIP-chrome-devtools.md",
-    "FE-WEB/html+css+browser/WIP-페이지간-데이터-전달-방법.md",
-    "FE-WEB/html+css+browser/WIP-까다로운-css.md",
-    "SPRING/bean.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
+    "FE-WEB/html+css+browser/WIP-number.md",
+    "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF",
+    "FE-WEB/react-router/WIP-loader.md",
+    "SPRING/WIP-persist.md",
+    "FE-WEB/react-router/WIP-picking-mode.md",
+    "FE-WEB/react-router/WIP-prefetch.md",
+    "PRESENTATION/router/ppt.key.sb-30e30b40-nj8PGp",
+    "PRESENTATION/router/ppt.key.sb-30e30b40-bOnTgp",
     "PRESENTATION/router/ppt.key",
     "PRESENTATION/router",
-    "PRESENTATION",
-    "FE-WEB/html+css+browser/preprocessor-postprocessor",
-    "FE-WEB/html+css+browser",
-    "FE-WEB/동작원리",
-    "AI"
+    "PRESENTATION"
   ]
 }
