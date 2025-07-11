@@ -1,3 +1,7 @@
+## [Getting Started: Project Structure | Next.js](https://nextjs.org/docs/app/getting-started/project-structure)
+
+
+
 ## [Getting Started: Fetching Data | Next.js](https://nextjs.org/docs/app/getting-started/fetching-data)
 
 - `fetch`는 기본적으로 캐싱되지 않지만, nextjs는 라우트를 프리렌더링하고 성능 개선을 위해 캐싱한다. 동적 렌더링을 원한다면 `{ cache: 'no-store' }` 를 사용하자.
