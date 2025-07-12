@@ -11,10 +11,14 @@
             "id": "0787d187f6da1410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SPRING/인증.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "인증"
             }
           }
         ]
@@ -177,16 +181,19 @@
   },
   "active": "0787d187f6da1410",
   "lastOpenFiles": [
+    "SPRING/bean.md",
+    "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
+    "SPRING/keyword.md",
     "SPRING/README.md",
+    "SPRING/POJO-vs-Java-Beans.md",
+    "SPRING/yak-shaving.webp",
+    "SPRING/multithread.md",
+    "SPRING/lombok.md",
     "ETC/intellij.md",
     "ETC/Pasted image 20250712155218.png",
-    "SPRING/authorization.md",
-    "SPRING/multithread.md",
-    "SPRING/POJO-vs-Java-Beans.md",
+    "SPRING/인증.md",
     "SPRING/WIP-DTO.md",
     "SPRING/WIP-persist.md",
-    "SPRING/lombok.md",
-    "SPRING/keyword.md",
     "SPRING/ioc-container.md",
     "JAVA/stream-&-lambda-expression.md",
     "JAVA/classpath.md",
@@ -204,14 +211,12 @@
     "DB/postgresql/instructions.md",
     "DB/postgresql/postgresql.md",
     "DB/prisma/instructions.md",
-    "conflict-files-obsidian-git.md",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "NETWORK/cover-image.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234143.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233706.png",
     "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233656.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233645.png",
     "NETWORK/네트워크-프로그래밍-책",
     "NETWORK/HTTP-완벽가이드-책/3장",
     "NETWORK/HTTP-완벽가이드-책/1장-및-2장",
