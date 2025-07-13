@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +183,9 @@
   },
   "active": "5782960cff09f1ba",
   "lastOpenFiles": [
+    "PRESENTATION/router/react-router-와-tanstack-router.pdf",
+    "PRESENTATION/router/react-router-와-tanstack-router.key",
+    "PRESENTATION/router/ppt.pdf",
     "FE-WEB/javascript/바이너리-데이터-핸들링.md",
     "SPRING/image.png",
     "FE-WEB/astro/아일랜드_아키텍쳐.md",
@@ -223,8 +228,6 @@
     "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF",
     "PRESENTATION/router/ppt.key.sb-30e30b40-nj8PGp",
     "PRESENTATION/router/ppt.key.sb-30e30b40-bOnTgp",
-    "PRESENTATION/router/ppt.key",
-    "PRESENTATION/router",
-    "PRESENTATION"
+    "PRESENTATION/router/ppt.key"
   ]
 }
