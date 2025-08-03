@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08f820c582ee2dbf",
+        "id": "a0c4f572005c9e88",
         "type": "tabs",
         "children": [
           {
-            "id": "a129edbea2a20883",
+            "id": "febde0082fb34e6a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "OS/Firmware.md",
-                "bFile": "OS/Firmware.md",
-                "aRef": ""
+                "file": "OS/주요-개념모음.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Firmware"
+              "icon": "lucide-file",
+              "title": "주요-개념모음"
             }
           }
         ]
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a129edbea2a20883",
+  "active": "febde0082fb34e6a",
   "lastOpenFiles": [
     "SPRING/인증.md",
     "SPRING/dispatch-sevlet.md",
