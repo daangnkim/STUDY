@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0bcc9c035b78c37",
+        "id": "08f820c582ee2dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "53d2047b9521020c",
+            "id": "a129edbea2a20883",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "OS/Firmware.md",
+                "bFile": "OS/Firmware.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Firmware"
             }
           }
         ]
@@ -175,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53d2047b9521020c",
+  "active": "a129edbea2a20883",
   "lastOpenFiles": [
     "SPRING/인증.md",
     "SPRING/dispatch-sevlet.md",
