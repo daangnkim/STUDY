@@ -1,5 +1,3 @@
-# English Study Note
-
 ## [Pattern]
 
 ### 순서대로 A, B, C, D 다.
@@ -68,4 +66,10 @@
 - in favor of / ~ 을 선호하여
 - fanout / 하나의 소스에서 여러 목적지로 데이터를 전파/분산하는 패턴
 - pioneer / 개척자, 선구자
-- upfront / 미리, 사전에
+- upfront / 미리, 사전에 
+- anticipate vs guess
+	- anticipate는 예상하다. 예측하다.로, 근거나 계획을 바탕으로 미리 예상하는 것
+	- guess는 추측하다로, 확실하지 않지만 대충 짐작해서 말하는 것
+- procedure vs process
+	- procedure은 과정에 집중. 어떻게(How) 할것인가에 초점
+	- process는 전체적인 흐름에 집중. 무엇을(What) 달성할 것인가에 초점
