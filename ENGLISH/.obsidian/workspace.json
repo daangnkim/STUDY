@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c444a5fd32758c33",
+    "id": "985a184025995e73",
     "type": "split",
     "children": [
       {
-        "id": "47a47cb5673254ae",
+        "id": "7fd211b6444f6134",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7780c290250efb",
+            "id": "e87ba02433e64720",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "996b14549542ccb5",
+    "id": "7bf319ed4175b8e9",
     "type": "split",
     "children": [
       {
-        "id": "dd2e6a8cb0d4f3fc",
+        "id": "f860f442bfaf93bf",
         "type": "tabs",
         "children": [
           {
-            "id": "277dfbd375bb177d",
+            "id": "ef4beb016fc97c88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "85a75c28124adb5c",
+            "id": "0b010617efdbac4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "7d6836c931cb5d8d",
+            "id": "fab95da92f2ee343",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "ac74eb25865fa08f",
+    "id": "be43de1d5f45f3fa",
     "type": "split",
     "children": [
       {
-        "id": "0d46160f61e00666",
+        "id": "edad5f521596a36a",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa00326197d6f0e",
+            "id": "73b7192d2d9da5bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/postgresql/instructions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +100,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for instructions"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "258845c5f05a911a",
+            "id": "f586958d8d8c58c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "91d095cf5cf1b782",
+            "id": "9447b880e212c6bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,36 +133,26 @@
             }
           },
           {
-            "id": "55343b3cfaf199f7",
+            "id": "47ab6c36f14e0672",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SECURITY/CSRF(Cross-Site Request Forgery).md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSRF(Cross-Site Request Forgery)"
-            }
-          },
-          {
-            "id": "a8b7f799a86d8633",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of README"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,57 +161,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "277dfbd375bb177d",
+  "active": "e87ba02433e64720",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "OS/주요-개념모음.md",
-    "OS/Firmware.md",
-    "OS/BOOT-PROCESS.md",
-    "FE-WEB/javascript/원페이퍼-정리.md",
-    "ENGLISH/English Study Note.md",
-    "ALGORITHM/hash-table.md",
-    "FE-WEB/react-router/tanstack-router로-이동해야하는-이유.md",
-    "PRESENTATION/router/react-router-와-tanstack-router.pdf",
-    "README.md",
-    "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-4mFJlV",
-    "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-daCYiL",
-    "PRESENTATION/router/react-router-와-tanstack-router.key",
-    "PRESENTATION/router/ppt.pdf",
-    "FE-WEB/javascript/바이너리-데이터-핸들링.md",
-    "SPRING/image.png",
-    "FE-WEB/astro/아일랜드_아키텍쳐.md",
-    "SPRING/annotation/WIP-annotation.md",
-    "SPRING/dispatch-sevlet.md",
-    "JAVA/java.webp",
-    "FE-WEB/javascript/Untitled.md",
-    "FE-WEB/javascript/BigInt.md",
-    "FE-WEB/javascript/execution-context.md",
-    "SPRING/인증.md",
-    "SPRING/bean.md",
-    "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
-    "SPRING/keyword.md",
-    "SPRING/README.md",
-    "SPRING/POJO-vs-Java-Beans.md",
-    "SPRING/yak-shaving.webp",
-    "SPRING/multithread.md",
-    "SPRING/lombok.md",
-    "ETC/intellij.md",
-    "ETC/Pasted image 20250712155218.png",
-    "SPRING/WIP-DTO.md",
-    "JAVA/collection/image.png",
-    "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
-    "NETWORK/cover-image.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234143.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707233706.png",
-    "NETWORK/네트워크-프로그래밍-책",
-    "NETWORK/HTTP-완벽가이드-책/3장",
-    "NETWORK/HTTP-완벽가이드-책/1장-및-2장",
-    "NETWORK/HTTP-완벽가이드-책",
-    "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF"
+    "English Study Note.md"
   ]
 }
