@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9a85b956ad6703d",
+        "id": "087227a85be33044",
         "type": "tabs",
         "children": [
           {
-            "id": "5782960cff09f1ba",
+            "id": "67e5541738e1e615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -181,11 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5782960cff09f1ba",
+  "active": "67e5541738e1e615",
   "lastOpenFiles": [
+    "FE-WEB/react-router/tanstack-router로-이동해야하는-이유.md",
+    "PRESENTATION/router/react-router-와-tanstack-router.pdf",
+    "README.md",
     "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-4mFJlV",
     "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-daCYiL",
-    "PRESENTATION/router/react-router-와-tanstack-router.pdf",
     "PRESENTATION/router/react-router-와-tanstack-router.key",
     "PRESENTATION/router/ppt.pdf",
     "FE-WEB/javascript/바이너리-데이터-핸들링.md",
@@ -216,7 +213,6 @@
     "JAVA/README.md",
     "JAVA/date.md",
     "JAVA/Object-hash-vs-hashcode.md",
-    "JAVA/ENUM.md",
     "JAVA/collection/image.png",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "NETWORK/cover-image.png",
@@ -227,7 +223,6 @@
     "NETWORK/HTTP-완벽가이드-책/3장",
     "NETWORK/HTTP-완벽가이드-책/1장-및-2장",
     "NETWORK/HTTP-완벽가이드-책",
-    "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF",
-    "PRESENTATION/router/ppt.key.sb-30e30b40-nj8PGp"
+    "PRESENTATION/router/ppt.key.sb-9354bd9a-rdAmXF"
   ]
 }
