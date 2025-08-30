@@ -1,5 +1,3 @@
-I'll explain Floyd's Cycle Detection Algorithm (also known as the "Tortoise and Hare" algorithm) comprehensively in English for your coding test preparation.
-
 ## Floyd's Cycle Detection Algorithm
 
 ### Core Concept
