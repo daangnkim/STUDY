@@ -5,3 +5,4 @@
 [아파치란? 톰캣이란 ? (aka. 아파치 != 톰캣) 웹서버 vs 와스](https://cheershennah.tistory.com/54)
 [Tomcat이란?](https://velog.io/@hsk2454/Tomcat%EC%9D%B4%EB%9E%80)
 [[spring] WEB 서버와 WAS 서버의 차이](https://toki0411.tistory.com/36)
+[ServletContainer와 SpringContainer는 무엇이 다른가? | by Sigrid Jin | Medium](https://sigridjin.medium.com/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
