@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING/폴더구조.md",
+                "file": "SPRING/bean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "폴더구조"
+              "title": "bean"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "folder",
+                "query": "Component",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +183,12 @@
   },
   "active": "3c7780c290250efb",
   "lastOpenFiles": [
+    "SPRING/annotation/WIP-annotation.md",
+    "SPRING/ioc-container.md",
+    "SPRING/bean.md",
+    "SPRING/인증.md",
+    "JAVA/date.md",
+    "SPRING/폴더구조.md",
     "SPRING/프로젝트-설정.md",
     "JAVA/\b자바의_동작_원리/자바의_동작_원리.md",
     "conflict-files-obsidian-git.md",
@@ -201,21 +208,15 @@
     "FE-WEB/javascript/바이너리-데이터-핸들링.md",
     "SPRING/image.png",
     "FE-WEB/astro/아일랜드_아키텍쳐.md",
-    "SPRING/annotation/WIP-annotation.md",
     "SPRING/dispatch-sevlet.md",
     "JAVA/java.webp",
     "FE-WEB/javascript/Untitled.md",
     "FE-WEB/javascript/BigInt.md",
     "FE-WEB/javascript/execution-context.md",
-    "SPRING/인증.md",
-    "SPRING/bean.md",
     "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
     "SPRING/keyword.md",
     "SPRING/README.md",
-    "SPRING/POJO-vs-Java-Beans.md",
     "SPRING/yak-shaving.webp",
-    "SPRING/multithread.md",
-    "SPRING/lombok.md",
     "ETC/Pasted image 20250712155218.png",
     "JAVA/collection/image.png",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
