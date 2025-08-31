@@ -1,7 +1,7 @@
 [[Spring] Dispatcher-Servlet(디스패처 서블릿)이란? 디스패처 서블릿의 개념과 동작 과정 - MangKyu's Diary](https://mangkyu.tistory.com/18)
 [[spring] 서블릿(Servlet)이란?](https://toki0411.tistory.com/66)
 [Spring Boot: 필터에서 doFilter와 FilterChain이란? — 오늘도 개발중입니다](https://curiousjinan.tistory.com/entry/spring-filterchain-dofilter)
-[[spring] WEB 서버와 WAS 서버의 차이](https://toki0411.tistory.com/36)
 [[Spring] 필터(Filter) vs 인터셉터(Interceptor) 차이 및 용도 - (1) - MangKyu's Diary](https://mangkyu.tistory.com/173)
 [아파치란? 톰캣이란 ? (aka. 아파치 != 톰캣) 웹서버 vs 와스](https://cheershennah.tistory.com/54)
 [Tomcat이란?](https://velog.io/@hsk2454/Tomcat%EC%9D%B4%EB%9E%80)
+[[spring] WEB 서버와 WAS 서버의 차이](https://toki0411.tistory.com/36)
