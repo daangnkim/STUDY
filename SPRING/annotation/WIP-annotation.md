@@ -137,3 +137,9 @@ JPA가 자동으로 SQL 컬럼 타입을 정하기 전에, 직접 명시할 수 
 
 ## @EntityListener
 [JPA Entity Lifecycle Events | Baeldung](https://www.baeldung.com/jpa-entity-lifecycle-events)
+
+
+----
+
+### @Value
+[Using @Value :: Spring Framework](https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/value-annotations.html)
