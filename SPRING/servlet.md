@@ -8,3 +8,4 @@
 [ServletContainer와 SpringContainer는 무엇이 다른가? | by Sigrid Jin | Medium](https://sigridjin.medium.com/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
 [[Spring] 필터(Filter) vs 인터셉터(Interceptor) 차이 및 용도 - (1) - MangKyu's Diary](https://mangkyu.tistory.com/173)
 [Spring Security UserDetails, UserDetailsService 란? - 삽질중인 개발자](https://programmer93.tistory.com/68)
+[[Spring Security] 스프링 시큐리티 동작 과정에 대해 알아보자.](https://myeongju00.tistory.com/88)
