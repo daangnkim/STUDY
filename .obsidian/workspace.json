@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sevlet",
+                "query": "UserDetails",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,9 +183,10 @@
   },
   "active": "3c7780c290250efb",
   "lastOpenFiles": [
+    "DB/postgresql/instructions.md",
+    "SPRING/servlet.md",
     "SPRING/Filter Chain.md",
     "SPRING/bean.md",
-    "SPRING/servlet.md",
     "SPRING/annotation/WIP-annotation.md",
     "SPRING/ioc-container.md",
     "SPRING/인증.md",
@@ -214,7 +216,6 @@
     "FE-WEB/javascript/BigInt.md",
     "FE-WEB/javascript/execution-context.md",
     "SPRING/jpa-vs-hibernate-vs-spring-data-jpa.md",
-    "SPRING/keyword.md",
     "SPRING/yak-shaving.webp",
     "ETC/Pasted image 20250712155218.png",
     "JAVA/collection/image.png",
