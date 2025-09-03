@@ -143,3 +143,9 @@ JPA가 자동으로 SQL 컬럼 타입을 정하기 전에, 직접 명시할 수 
 
 ### @Value
 [Using @Value :: Spring Framework](https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/value-annotations.html)
+
+
+-----
+
+### @Data
+[@Data 어노테이션 사용해야 되나?. Spring + JAVA를 사용해서 어플리케이션을 개발하다보면… | by mozza | mo-zza | Medium](https://medium.com/mo-zza/data-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%EB%90%98%EB%82%98-34d04fb23fea)
