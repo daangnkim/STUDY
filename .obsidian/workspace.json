@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "881e874604067723",
+        "id": "9878959497af2de3",
         "type": "tabs",
         "children": [
           {
-            "id": "420be1800480681a",
+            "id": "9c7c512ad690ab12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-APP/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0de89305263ae1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-APP/Styling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Styling"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0de89305263ae1d6",
+  "active": "9c7c512ad690ab12",
   "lastOpenFiles": [
     "FE-APP/README.md",
     "FE-APP/Styling.md",
