@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/html+css+browser/DP.md",
+                "file": "FE-WEB/html+css+browser/ipad-vs-chrome-dev-tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DP"
+              "title": "ipad-vs-chrome-dev-tools"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +200,7 @@
   "active": "390bbbef7ab7013c",
   "lastOpenFiles": [
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
-    "FE-WEB/html+css+browser/DP.md",
+    "FE-WEB/html+css+browser/ipad-vs-chrome-dev-tools.md",
     "FE-APP/README.md",
     "FE-APP/Styling.md",
     "Untitled.base",
