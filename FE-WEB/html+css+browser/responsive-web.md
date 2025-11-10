@@ -11,3 +11,8 @@
 
 - [Understanding the Difference Between CSS Resolution and Device Resolution | by Elad Shechter | Medium](https://elad.medium.com/understanding-the-difference-between-css-resolution-and-device-resolution-28acae23da0b)
 - [Screen sizes in DevTools do not match actual device sizes - Stack Overflow](https://stackoverflow.com/questions/69626721/screen-sizes-in-devtools-do-not-match-actual-device-sizes)
+
+# physical device vs chrome devtools
+chrome devtools는 physical device에 대한 근사된 view만 볼 수 있음.
+
+- https://www.reddit.com/r/webdev/comments/rgnqmj/why_is_the_responsive_design_dev_tools_on_mobile/
