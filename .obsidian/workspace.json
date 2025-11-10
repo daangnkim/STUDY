@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/html+css+browser/responsive-web.md",
+                "file": "FE-APP/term.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "responsive-web"
+              "title": "term"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "fdd75d657907e072",
   "lastOpenFiles": [
+    "FE-WEB/html+css+browser/responsive-web.md",
     "FE-APP/term.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "FE-APP/Styling.md",
@@ -190,7 +191,6 @@
     "FE-APP/ios",
     "FE-APP/README.md",
     "FE-APP/android",
-    "FE-WEB/html+css+browser/responsive-web.md",
     "Untitled.base",
     "2025-11-07.md",
     "Untitled.canvas",
