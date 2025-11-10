@@ -1,6 +1,7 @@
 # responsive web을 조금 더 쉽게 만드는 방법
 - 고정 단위 사용하기
 - main content에 대한 maxWidth 제한하기
+- emulator를 이용하여 테스트하기
 
 # pixel
 1. pixel density === device density
