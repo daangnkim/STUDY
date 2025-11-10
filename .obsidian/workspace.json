@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/hermes.md",
+                "file": "OS/주요-개념모음.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hermes"
+              "title": "주요-개념모음"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -212,8 +213,13 @@
   },
   "active": "189cd69a690aac65",
   "lastOpenFiles": [
-    "FE-APP/README.md",
+    "OS/linux-instruction.md",
+    "OS/주요-개념모음.md",
+    "OS/커버이미지.png",
+    "DESIGN-PATTERN/creational/Abstract Factory/Untitled.base",
+    "DESIGN-PATTERN/creational/Abstract Factory/index.md",
     "FE-APP/hermes.md",
+    "FE-APP/README.md",
     "FE-APP/debugging.md",
     "FE-WEB/html+css+browser/responsive-web.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
@@ -240,10 +246,7 @@
     "SPRING/프로젝트-설정.md",
     "JAVA/\b자바의_동작_원리/자바의_동작_원리.md",
     "conflict-files-obsidian-git.md",
-    "OS/주요-개념모음.md",
     "OS/Firmware.md",
-    "OS/BOOT-PROCESS.md",
-    "FE-WEB/javascript/원페이퍼-정리.md",
     "PRESENTATION/router/react-router-와-tanstack-router.pdf",
     "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-4mFJlV",
     "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-daCYiL",
@@ -256,8 +259,6 @@
     "JAVA/collection/image.png",
     "ALGORITHM/dp-vs-greedy/Pasted image 20250531174057.png",
     "NETWORK/cover-image.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png",
-    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234143.png",
-    "NETWORK/네트워크-프로그래밍-책"
+    "NETWORK/네트워크-프로그래밍-책/Pasted image 20250707234206.png"
   ]
 }
