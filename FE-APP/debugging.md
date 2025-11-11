@@ -1,5 +1,5 @@
 ## ANDROID
-- debug 모드를 사용하면 안되는 이유
+- profileable vs debugger
 - https://android-developers.googleblog.com/2022/10/accurately-measure-android-app-performance-with-profileable-builds.html
 
 ## 디버깅 방법

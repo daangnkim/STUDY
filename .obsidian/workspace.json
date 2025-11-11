@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/android/file.md",
+                "file": "FE-APP/debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file"
+              "title": "debugging"
             }
           }
         ],
@@ -226,8 +226,9 @@
   },
   "active": "390a009edd51e0a0",
   "lastOpenFiles": [
-    "FE-APP/debugging.md",
+    "FE-APP/README.md",
     "FE-APP/android/file.md",
+    "FE-APP/debugging.md",
     "FE-APP/react-native-core.md",
     "FE-APP/hermes.md",
     "OS/주요-개념모음.md",
@@ -235,7 +236,6 @@
     "OS/커버이미지.png",
     "DESIGN-PATTERN/creational/Abstract Factory/Untitled.base",
     "DESIGN-PATTERN/creational/Abstract Factory/index.md",
-    "FE-APP/README.md",
     "FE-WEB/html+css+browser/responsive-web.md",
     "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
