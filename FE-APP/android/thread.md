@@ -1,2 +1,4 @@
-- 
+
+
+- [👩‍💻 ‍완전히 정복하는 프로세스 vs 스레드 개념](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%E2%9A%94%EF%B8%8F-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%B0%A8%EC%9D%B4)'
 - [[Android] Executors와 병렬 처리 이야기](https://velog.io/@jaeyunn_15/Android-Executors%EC%99%80-%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
