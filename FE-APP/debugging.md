@@ -1,4 +1,7 @@
 ## ANDROID
+- heap dump capture
+	- [힙 덤프 캡처  |  Android Studio  |  Android Developers](https://developer.android.com/studio/profile/capture-heap-dump?hl=ko)
+
 - profiler
 	- https://developer.android.com/studio/profile
 
