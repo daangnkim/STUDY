@@ -1,0 +1,2 @@
+- 
+- [[Android] Executors와 병렬 처리 이야기](https://velog.io/@jaeyunn_15/Android-Executors%EC%99%80-%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
