@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/android/instruction.md",
+                "file": "FE-WEB/react/useReducer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "instruction"
+              "title": "useReducer"
+            }
+          },
+          {
+            "id": "b1a7970cc4e4a16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE-WEB/react/memory-leak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "memory-leak"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -197,17 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baf9d78cc2c8ba55",
+  "active": "b1a7970cc4e4a16c",
   "lastOpenFiles": [
-    "FE-APP/android/androidmanifest.xml.md",
+    "FE-WEB/react/useReducer.md",
+    "FE-WEB/react/memory-leak.md",
+    "FE-APP/react-native-core.md",
     "FE-APP/android/instruction.md",
+    "FE-APP/android/androidmanifest.xml.md",
     "OS/linux-instruction.md",
     "DESIGN-PATTERN/creational/Abstract Factory/index.md",
     "FE-APP/android/file.md",
     "FE-APP/debugging.md",
     "FE-APP/Styling.md",
     "FE-APP/README.md",
-    "FE-APP/react-native-core.md",
     "FE-APP/android/thread.md",
     "OS/주요-개념모음.md",
     "SPRING/프로젝트-설정.md",
@@ -231,8 +246,6 @@
     "DB/postgresql/instructions.md",
     "SPRING/Filter Chain.md",
     "SPRING/bean.md",
-    "SPRING/ioc-container.md",
-    "SPRING/인증.md",
     "PRESENTATION/router/react-router-와-tanstack-router.pdf",
     "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-4mFJlV",
     "PRESENTATION/router/react-router-와-tanstack-router.key.sb-b58c2c53-daCYiL",
