@@ -1,0 +1,7 @@
+- adb exec-out screencap -p > ~/Desktop/screenshot.png
+	- adb : android device bridge
+	- exec-out : execute output
+	- screen cap : screen capture
+	- -p : png format
+	- > : redirection
+	- ~ : home directory
