@@ -10,5 +10,7 @@
 
 ## PBF TO TILES
 ### 대한민국 osm.pbf 파일 렌더링
-
 https://advena.hashnode.dev/heavy-map-visualizations-fundamentals-for-web-developers
+
+### 타일 서버 띄우기
+https://velog.io/@oksk4753/OpenStreetMap-Tile-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95
