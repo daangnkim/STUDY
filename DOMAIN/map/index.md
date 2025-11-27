@@ -1,1 +1,2 @@
-[Understanding Map Zoom Levels and XYZ Tile Coordinates - DEV Community](https://dev.to/geoapify-maps-api/understanding-map-zoom-levels-and-xyz-tile-coordinates-55da)
+- [Understanding Map Zoom Levels and XYZ Tile Coordinates - DEV Community](https://dev.to/geoapify-maps-api/understanding-map-zoom-levels-and-xyz-tile-coordinates-55da)
+- [Slippy map tilenames - OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames)
