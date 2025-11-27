@@ -1,0 +1,1 @@
+[Understanding Map Zoom Levels and XYZ Tile Coordinates - DEV Community](https://dev.to/geoapify-maps-api/understanding-map-zoom-levels-and-xyz-tile-coordinates-55da)
