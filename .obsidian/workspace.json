@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -224,8 +225,8 @@
   },
   "active": "6549f224f180d62e",
   "lastOpenFiles": [
-    "Untitled.base",
     "DOMAIN/map/index.md",
+    "Untitled.base",
     "Untitled.canvas",
     "FE-APP/Untitled.md",
     "FE-APP/animation.md",
