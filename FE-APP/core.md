@@ -10,6 +10,7 @@ https://docs.expo.dev/guides/using-hermes/
 [React-Native-Advanced-Guide/Debugging-Profiling/Debugging-and-Profiling-ultimate-guide.md at master · anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide/blob/master/Debugging-Profiling/Debugging-and-Profiling-ultimate-guide.md#js-frame-rate-javascript-thread)
 
 ## architecture
+- [React Native Architecture: A Deep Dive into the Old vs. New Approaches | by Sulegjan Sasikumar | Medium](https://sulegjant0201.medium.com/react-native-architecture-a-deep-dive-into-the-old-vs-new-approaches-c3d01de08799)
 - [A Comparison Between React Native’s Old and New Architecture | by Vishali | Medium](https://medium.com/@vishali_jegadeesan/a-comparison-between-react-natives-old-and-new-architecture-e0642c02ef8d)
 	- old architecutre와 new architecture의 차이
 
