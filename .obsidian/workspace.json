@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+                "file": "FE-APP/animation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-queryClient-메서드"
+              "title": "animation"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invalidate",
+                "query": "stale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,13 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -199,12 +197,16 @@
   },
   "active": "f282d6e65bb0ab82",
   "lastOpenFiles": [
+    "FE-APP/term.md",
+    "FE-APP/README.md",
     "FE-APP/core.md",
     "FE-APP/animation.md",
+    "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
+    "FE-WEB/tanstack-query/옵션-리스트.md",
+    "FE-WEB/tanstack-query/동작원리/WIP-동작원리.md",
+    "FE-WEB/react/concurrent-rendering/WIP-concurrent-rendering.md",
     "FE-APP/debugging.md",
     "FE-APP/Styling.md",
-    "FE-APP/README.md",
-    "FE-APP/term.md",
     "FE-APP/list.md",
     "FE-APP/Untitled.md",
     "Untitled.base",
@@ -226,11 +228,8 @@
     "FE-APP/android/file.md",
     "OS/주요-개념모음.md",
     "SPRING/프로젝트-설정.md",
-    "FE-APP/hermes.md",
     "OS/커버이미지.png",
     "DESIGN-PATTERN/creational/Abstract Factory/Untitled.base",
-    "FE-WEB/html+css+browser/responsive-web.md",
-    "FE-WEB/html+css+browser/WIP-까다로운-css.md",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-APP/ios",
     "FE-APP/android",

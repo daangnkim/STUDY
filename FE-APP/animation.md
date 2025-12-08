@@ -11,3 +11,6 @@
 ## worklet
 - [Worklets and Threading in Reanimated for Smooth Animations in React Native - DEV Community](https://dev.to/ajmal_hasan/worklets-and-threading-in-reanimated-for-smooth-animations-in-react-native-98)
 - [Getting started | React Native Worklets: Multithreading engine for your apps and libraries](https://docs.swmansion.com/react-native-worklets/docs/)
+
+## panResponder
+- [React Native PanResponder. PanResponder is a built-in gesture… | by Diliplohar | Medium](https://medium.com/@diliplohar204/react-native-panresponder-523b9ad2b9ca)
