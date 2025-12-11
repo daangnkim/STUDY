@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/animation.md",
+                "file": "FE-APP/core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "animation"
+              "title": "core"
             }
           }
         ],
@@ -197,15 +197,15 @@
   },
   "active": "f282d6e65bb0ab82",
   "lastOpenFiles": [
-    "FE-APP/term.md",
-    "FE-APP/README.md",
+    "FE-APP/debugging.md",
     "FE-APP/core.md",
     "FE-APP/animation.md",
+    "FE-APP/term.md",
+    "FE-APP/README.md",
     "FE-WEB/tanstack-query/WIP-queryClient-메서드.md",
     "FE-WEB/tanstack-query/옵션-리스트.md",
     "FE-WEB/tanstack-query/동작원리/WIP-동작원리.md",
     "FE-WEB/react/concurrent-rendering/WIP-concurrent-rendering.md",
-    "FE-APP/debugging.md",
     "FE-APP/Styling.md",
     "FE-APP/list.md",
     "FE-APP/Untitled.md",
