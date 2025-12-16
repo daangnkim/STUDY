@@ -1,0 +1,1 @@
+- [Android 액티비티(Activity)란?](https://www.tosspayments.com/blog/articles/mobile-pay-2)
