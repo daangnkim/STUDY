@@ -5,4 +5,4 @@
 	- :8081 포트 8081을 사용하는 네트워크 연결만 확인
 
 - unzip 파일명 -d 목적지
-- 경로의 마지막 저장 basename "$PWD" | pbcopy
+- basename을 카피하는 방법은 basename "$PWD" | pbcopy
