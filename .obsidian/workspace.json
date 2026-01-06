@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b464cbe289c5aa5a",
+        "id": "7277c0ae8d933651",
         "type": "tabs",
         "children": [
           {
-            "id": "12580f50b6ae815f",
+            "id": "a19172d51e854628",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12580f50b6ae815f",
+  "active": "a19172d51e854628",
   "lastOpenFiles": [
+    "Untitled.md",
+    "ETC/obsidian.md",
     "FE-APP/android/androidmanifest.xml.md",
     "OS/linux-instruction.md",
-    "ETC/obsidian.md",
     "ETC/intellij.md",
     "OS/WIP-multithread.md",
     "SPRING/Untitled.base",
@@ -208,7 +210,6 @@
     "FE-WEB/tanstack-query/동작원리/WIP-동작원리.md",
     "FE-WEB/react/concurrent-rendering/WIP-concurrent-rendering.md",
     "FE-APP/Styling.md",
-    "FE-APP/list.md",
     "Untitled.canvas",
     "DOMAIN/map",
     "DOMAIN",
