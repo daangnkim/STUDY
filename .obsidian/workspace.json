@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b2c29086fc5e7f8f",
+        "id": "b464cbe289c5aa5a",
         "type": "tabs",
         "children": [
           {
-            "id": "8d0cfeaa9d054f1b",
+            "id": "12580f50b6ae815f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-APP/react-native-core.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "react-native-core"
-            }
-          },
-          {
-            "id": "f282d6e65bb0ab82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-APP/android/androidmanifest.xml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "androidmanifest.xml"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f282d6e65bb0ab82",
+  "active": "12580f50b6ae815f",
   "lastOpenFiles": [
+    "FE-APP/android/androidmanifest.xml.md",
     "OS/linux-instruction.md",
     "ETC/obsidian.md",
     "ETC/intellij.md",
@@ -208,7 +190,6 @@
     "README.md",
     "Untitled.base",
     "FE-APP/android/core.md",
-    "FE-APP/android/androidmanifest.xml.md",
     "FE-APP/android/file.md",
     "FE-APP/android/thread.md",
     "FE-APP/android/instruction.md",
