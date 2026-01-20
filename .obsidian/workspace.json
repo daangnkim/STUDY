@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "TOEIC"
             }
-          },
-          {
-            "id": "0349c3daa7ce50f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0349c3daa7ce50f9",
+  "active": "7db6112e15ad4594",
   "lastOpenFiles": [
     "ENGLISH/English Study Note.md",
     "ENGLISH/TOEIC.md",
