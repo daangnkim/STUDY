@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/test.md",
+                "file": "FE-WEB/tanstack-query/WIP-architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "WIP-architecture"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -182,8 +183,8 @@
   },
   "active": "a6ca38e790a7de0f",
   "lastOpenFiles": [
-    "FE-APP/Untitled.md",
     "FE-APP/test.md",
+    "FE-APP/Untitled.md",
     "ENGLISH/TOEIC.md",
     "FE-APP/core.md",
     "conflict-files-obsidian-git.md",
