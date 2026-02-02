@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-WEB/tanstack-query/WIP-request-waterfall.md",
+                "file": "ENGLISH/English Study Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-request-waterfall"
+              "title": "English Study Note"
             }
           }
         ]
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -183,6 +183,9 @@
   },
   "active": "d5925500c52e8368",
   "lastOpenFiles": [
+    "ENGLISH/Untitled.md",
+    "ENGLISH/English Study Note.md",
+    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-APP/test.md",
@@ -196,7 +199,6 @@
     "SPRING/인증.md",
     "SPRING/Untitled.base",
     "SPRING/bean.md",
-    "ENGLISH/English Study Note.md",
     "ENGLISH/Untitled",
     "Untitled.md",
     "ETC/obsidian.md",
@@ -211,8 +213,6 @@
     "FE-APP/android/core.md",
     "FE-APP/android/file.md",
     "FE-APP/android/thread.md",
-    "FE-APP/android/instruction.md",
-    "FE-APP/animation.md",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-APP/Untitled.base",
     "Untitled.canvas",
