@@ -20,7 +20,7 @@
 - cryptographic / 암호화
 - sign-in = sign-on / 로그인
 - sign-up / 회원가입
-- revolve around / ~를 중심으로4 돌아간다.
+- revolve around / ~를 중심으로 돌아간다.
 - as with any ~ / 어떤 ~ 와 마찬가지로
 - rather typical / 실제로는
 - keep track of / 지속적으로 상태를 감시하고 관리하다.
