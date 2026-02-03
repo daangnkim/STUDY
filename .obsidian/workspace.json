@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fade81dad80e3617",
+        "id": "b1f6ee18f97a3bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "d5925500c52e8368",
+            "id": "55ec2ff71765d7fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGLISH/English Study Note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "English Study Note"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -180,16 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5925500c52e8368",
+  "active": "55ec2ff71765d7fe",
   "lastOpenFiles": [
-    "ENGLISH/Untitled.md",
+    "ENGLISH/TOEIC.md",
     "ENGLISH/English Study Note.md",
+    "ENGLISH/Untitled.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/react-router/WIP-loader.md",
     "FE-WEB/tanstack-query/WIP-architecture.md",
     "FE-APP/test.md",
     "FE-APP/Untitled.md",
-    "ENGLISH/TOEIC.md",
     "FE-APP/core.md",
     "conflict-files-obsidian-git.md",
     "SPRING/의존성.md",
