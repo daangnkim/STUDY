@@ -22,4 +22,9 @@ https://www.udemy.com/course/docker-kubernetes-the-practical-guide/ 강의 기�
 virtual machine은 computer 안의 computer, machine 안의 machine
 virtual machine은 virtual machine 안에서 돌아가는 virtual os를 가진다.
 virtually 하게 존재하지만 어쨋든 여러가지 툴 설치가 가능하다. 
+encapsulated 된 구조는 container와 유사하다.
 ![[Pasted image 20260205223237.png]]
+
+하지만 여기에는 몇 가지 문제가 있다.
+
+
