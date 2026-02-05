@@ -18,3 +18,7 @@ https://www.udemy.com/course/docker-kubernetes-the-practical-guide/ 강의 기�
 글로벌하게 버전을 관리하지 않아도 된다.
 
 ### virtual machine과의 비교
+
+virtual machine은 computer 안의 computer, machine 안의 machine
+virtual machine은 virtual machine 안에서 돌아가는 virtual os를 가진다.
+virtually 하게 존재하지만 어쨋든 여러가지 툴 설치가 가능하다.
