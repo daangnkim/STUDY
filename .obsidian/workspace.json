@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVOPS/docker.md",
+                "file": "DEVOPS/docker 강좌/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "index"
             }
           }
         ]
@@ -184,7 +184,9 @@
   },
   "active": "5094128cd71c3196",
   "lastOpenFiles": [
-    "DEVOPS/docker.md",
+    "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
+    "DEVOPS/docker 강좌",
+    "DEVOPS/docker 강좌/index.md",
     "DEVOPS",
     "ENGLISH/TOEIC.md",
     "Untitled 2.base",
@@ -222,7 +224,6 @@
     "DOMAIN/map",
     "DOMAIN",
     "OS/커버이미지.png",
-    "DESIGN-PATTERN/creational/Abstract Factory/Untitled.base",
     "SPRING/image.png",
     "JAVA/java.webp",
     "SPRING/yak-shaving.webp",
