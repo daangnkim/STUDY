@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/core.md",
+                "file": "FE-APP/animation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "core"
+              "title": "animation"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "07eadc43bc31b0bc",
   "lastOpenFiles": [
-    "FE-APP/animation.md",
     "FE-APP/core.md",
+    "FE-APP/animation.md",
     "FE-APP/debugging.md",
     "FE-APP/README.md",
     "FE-APP/Styling.md",
