@@ -48,7 +48,7 @@ https://www.udemy.com/course/docker-kubernetes-the-practical-guide/ 강의 기�
         
     - **이동성:** 개발 환경에서 만든 이미지를 그대로 운영 서버에 배포 가능.
  
-### 도커 엔진의 실체와 가상 머신
+## 도커 엔진의 실체와 가상 머신
 
 어떤 방식(Docker Desktop, Linux 직접 설치, Docker Toolbox)으로 설치했든 핵심은 Docker Engine을 내 컴퓨터에 갖추는 것
 
