@@ -1,0 +1,1 @@
+## batch delete rest api
