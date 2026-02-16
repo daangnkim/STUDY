@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0e23d0657546d4",
+        "id": "64d9a828b0f030d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e677ca64c555ed13",
+            "id": "af139a77008dedf0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e677ca64c555ed13",
+  "active": "af139a77008dedf0",
   "lastOpenFiles": [
     "README.md",
     "FE-WEB/html+css+browser/responsive-web.md",
