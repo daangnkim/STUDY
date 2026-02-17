@@ -11,10 +11,14 @@
             "id": "af139a77008dedf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DEVOPS/docker 강좌/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "해상도",
+                "query": "DOCKER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,6 +184,7 @@
   },
   "active": "af139a77008dedf0",
   "lastOpenFiles": [
+    "Untitled.base",
     "README.md",
     "FE-WEB/html+css+browser/responsive-web.md",
     "BE/restapi.md",
@@ -208,13 +213,11 @@
     "FE-WEB/tanstack-query/WIP-architecture.md",
     "conflict-files-obsidian-git.md",
     "SPRING/의존성.md",
-    "Untitled.base",
     "FE-WEB/전역 상태 관리.md",
     "SPRING/인증.md",
     "SPRING/Untitled.base",
     "SPRING/bean.md",
     "ENGLISH/Untitled",
-    "ETC/obsidian.md",
     "ETC/Pasted image 20250712155218.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "FE-APP/Untitled.base",
