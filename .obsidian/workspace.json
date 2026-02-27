@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "64d9a828b0f030d2",
+        "id": "3a466e4414a24450",
         "type": "tabs",
         "children": [
           {
-            "id": "af139a77008dedf0",
+            "id": "a7574649136b0f00",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "AI/빅분기/Pasted image 20250610000716.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250610000716"
-            }
-          },
-          {
-            "id": "98c2b9e3a96b436d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,12 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "277dfbd375bb177d",
+  "active": "a7574649136b0f00",
   "lastOpenFiles": [
-    "AI/Untitled.md",
+    "AI/빅분기/Pasted image 20250610000716.png",
+    "AI/AI추적관찰노트/Frontend AI 수준 트래킹.md",
+    "AI/AI추적관찰노트",
     "AI/빅분기/Untitled 1.md",
     "AI/Untitled.base",
-    "AI/빅분기/Pasted image 20250610000716.png",
     "AI/빅분기/Pasted image 20250610000711.png",
     "AI/빅분기/빅데이터-분석기사-개념.md",
     "AI/빅분기",
@@ -232,9 +216,7 @@
     "ENGLISH/Untitled.md",
     "FE-WEB/tanstack-query/WIP-request-waterfall.md",
     "FE-WEB/react-router/WIP-loader.md",
-    "FE-WEB/tanstack-query/WIP-architecture.md",
     "SPRING/Untitled.base",
-    "ENGLISH/Untitled",
     "ETC/Pasted image 20250712155218.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "Untitled.canvas",
