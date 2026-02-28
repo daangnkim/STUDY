@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a466e4414a24450",
+        "id": "60d83e22967972fa",
         "type": "tabs",
         "children": [
           {
-            "id": "a7574649136b0f00",
+            "id": "4b393c858196dea9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7574649136b0f00",
+  "active": "4b393c858196dea9",
   "lastOpenFiles": [
     "AI/빅분기/Pasted image 20250610000716.png",
     "AI/AI추적관찰노트/Frontend AI 수준 트래킹.md",
