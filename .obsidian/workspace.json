@@ -184,6 +184,7 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DB/interview/04-join-n1-connection-pool.md",
     "DB/interview/03-lock-deadlock.md",
     "DB/interview/02-index.md",
     "DB/interview/01-transaction-acid-isolation.md",
@@ -219,7 +220,6 @@
     "FE-APP/Styling.md",
     "FE-APP/term.md",
     "FE-APP/Untitled.md",
-    "FE-APP/test.md",
     "DEVOPS/docker 강좌",
     "DEVOPS",
     "Untitled 2.base",
