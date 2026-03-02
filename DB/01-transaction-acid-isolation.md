@@ -40,6 +40,7 @@ BEGIN → [활성(Active)]
 ### Spring @Transactional 기본 사용
 
 Spring은 AOP 프록시를 통해 트랜잭션을 선언적으로 관리한다.
+https://tech.neordinary.co.kr/%ED%95%B5%EC%8B%AC-%EB%A1%9C%EC%A7%81%EC%9D%84-%EB%8D%94-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-spring-aop%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98-%EB%B6%84%EB%A6%AC-d36ece5d4f22
 `begin/commit/rollback`을 직접 코딩하지 않아도 된다.
 
 ```java
