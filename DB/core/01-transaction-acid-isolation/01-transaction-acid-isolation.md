@@ -295,9 +295,17 @@ public Order createOrder(OrderRequest request) {
 }
 ```
 
+## 3. 트랜잭션의 상태
+
+트랜잭션은 다섯 가지 상태 중 하나에 속해야한다.
+
+![[Pasted image 20260302200538.png]]
+
+
+
 ---
 
-## 3. 격리 수준 (Isolation Level)
+## 4. 격리 수준 (Isolation Level)
 
 격리성을 완벽히 보장하면 동시 처리 성능이 떨어진다.
 격리 수준으로 **성능 vs 일관성** 사이의 트레이드오프를 선택한다.
