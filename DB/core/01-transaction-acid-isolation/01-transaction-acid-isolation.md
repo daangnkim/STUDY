@@ -223,6 +223,8 @@ public class Account {
 ### C - Consistency (일관성)
 
 트랜잭션 실행 전후에 **DB가 항상 유효한 상태**를 유지해야 한다.
+A가 B에게 5,000원을 송금했으면, A와 B가 가진 돈의 합계는 변하지 않아야 한다. 만약 돈의 합계에서 5,000원이 줄면 안된다.
+
 정의된 규칙(제약 조건, 외래키, 도메인 규칙)을 항상 만족해야 한다.
 
 ```java
@@ -249,8 +251,9 @@ ALTER TABLE accounts ADD CONSTRAINT chk_balance CHECK (balance >= 0);
 -- balance가 음수가 되는 트랜잭션은 DB 자체에서 거부
 ```
 
-### I - Isolation (격리성)
+### I - Isolation (격리성, 고립성)
 
+트랜잭션이 생성한 중간 결과에 다른 트랜잭션이 접근할 수 없다.
 동시에 실행되는 트랜잭션들이 **서로 영향을 주지 않아야** 한다.
 
 ```java
