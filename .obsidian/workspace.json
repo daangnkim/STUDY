@@ -183,6 +183,8 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DEVOPS/aws/08-route53-cloudwatch.md",
+    "DEVOPS/aws/07-sqs-sns-eventbridge.md",
     "DB/02-index.md",
     "DB/01-transaction-acid-isolation.md",
     "DEVOPS/aws/06-lambda-api-gateway.md",
@@ -217,8 +219,6 @@
     "BE/restapi.md",
     "DB/database-interview.md",
     "DB/interview",
-    "DB/postgresql/instructions.md",
-    "DB/postgresql/postgresql.md",
     "DB/cover-image.png",
     "AI/빅분기/Pasted image 20250610000716.png",
     "AI/AI추적관찰노트",
