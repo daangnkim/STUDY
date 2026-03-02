@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -184,10 +183,19 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DB/core/01-transaction-acid-isolation/무제.md",
+    "DB/core/01-transaction-acid-isolation/01-transaction-acid-isolation.md",
+    "DEVOPS/docker/01-image-container-dockerfile.md",
+    "DEVOPS/docker/02-layer-cache-multistage.md",
+    "DEVOPS/docker/05-container-vs-vm-security.md",
+    "DEVOPS/docker/04-compose.md",
+    "DEVOPS/docker/03-volume-network.md",
+    "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
     "DB/core/01-transaction-acid-isolation/Pasted image 20260302200538.png",
+    "NETWORK/ssh-protocol/WIP-index.md",
+    "NETWORK/auth/session-vs-token.md",
     "NETWORK/ssh-protocol/ssh-deep-dive.md",
     "DB/core/06-database-design/06-database-design.md",
-    "DB/core/01-transaction-acid-isolation/01-transaction-acid-isolation.md",
     "DB/core/06-database-design",
     "DB/core/01-transaction-acid-isolation",
     "DB/postgresql/instructions.md",
@@ -209,27 +217,18 @@
     "DB/images/btree-structure.svg",
     "DEVOPS/docker/images",
     "DB/images",
-    "DEVOPS/docker/05-container-vs-vm-security.md",
-    "DEVOPS/docker/04-compose.md",
-    "DEVOPS/docker/03-volume-network.md",
-    "DEVOPS/docker/02-layer-cache-multistage.md",
-    "DEVOPS/docker/01-image-container-dockerfile.md",
     "DEVOPS/docker",
     "DB/interview/01-transaction-acid-isolation.md",
     "DB/core/05-sharding-replication-cap-nosql.md",
     "DB/core/04-join-n1-connection-pool.md",
     "DB/core/03-lock-deadlock.md",
     "DEVOPS/docker-interview.md",
-    "DB/interview/04-join-n1-connection-pool.md",
-    "DB/interview/05-sharding-replication-cap-nosql.md",
     "DB/interview",
     "DB/cover-image.png",
     "AI/빅분기/Pasted image 20250610000716.png",
     "AI/AI추적관찰노트",
     "AI/Untitled.base",
     "AI/빅분기/Pasted image 20250610000711.png",
-    "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
-    "ETC/Pasted image 20250712155218.png",
     "Untitled.canvas"
   ]
 }
