@@ -254,6 +254,7 @@ ALTER TABLE accounts ADD CONSTRAINT chk_balance CHECK (balance >= 0);
 ### I - Isolation (격리성, 고립성)
 
 트랜잭션이 생성한 중간 결과에 다른 트랜잭션이 접근할 수 없다.
+A에서 B로의 이체와 B로의 입금이 동시에 일어나는 경우를 생각한다.
 동시에 실행되는 트랜잭션들이 **서로 영향을 주지 않아야** 한다.
 
 ```java
@@ -274,7 +275,7 @@ public void orderProduct(Long productId) {
 
 ### D - Durability (지속성)
 
-커밋된 트랜잭션 결과는 **영구적으로 반영**되어야 한다.
+커밋된 트랜잭션 결과는 **DB에 영구적으로 반영**되어야 한다.
 서버가 다운되어도 커밋된 데이터는 사라지지 않는다.
 
 ```
