@@ -184,6 +184,11 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DEVOPS/aws/04-rds-elasticache.md",
+    "DEVOPS/aws/03-s3-cloudfront.md",
+    "DEVOPS/aws/02-ec2-elb-asg.md",
+    "DEVOPS/aws/01-global-infrastructure-iam.md",
+    "DEVOPS/aws",
     "DB/images/lock-types.svg",
     "DB/images/deadlock.svg",
     "DB/images/transaction-acid.svg",
@@ -217,19 +222,14 @@
     "DB/README.md",
     "DB/cover-image.png",
     "AI/빅분기/Pasted image 20250610000716.png",
-    "AI/AI추적관찰노트/Frontend AI 수준 트래킹.md",
     "AI/AI추적관찰노트",
-    "AI/빅분기/Untitled 1.md",
     "AI/Untitled.base",
     "AI/빅분기/Pasted image 20250610000711.png",
-    "AI/빅분기/빅데이터-분석기사-개념.md",
     "AI/빅분기",
     "FE-APP/Untitled.base",
     "BE",
     "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
-    "DEVOPS/docker 강좌",
     "ETC/Pasted image 20250712155218.png",
-    "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "Untitled.canvas"
   ]
 }
