@@ -11,14 +11,10 @@
             "id": "91ff07d8e679191c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BE/restapi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "restapi"
+              "title": "새 탭"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -184,15 +179,21 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DEVOPS/docker",
+    "DB/interview/01-transaction-acid-isolation.md",
+    "DB/05-sharding-replication-cap-nosql.md",
+    "DB/04-join-n1-connection-pool.md",
+    "DB/03-lock-deadlock.md",
+    "DB/02-index.md",
+    "DB/01-transaction-acid-isolation.md",
     "DEVOPS/docker-interview.md",
-    "DB/interview/05-sharding-replication-cap-nosql.md",
     "DB/interview/04-join-n1-connection-pool.md",
+    "DB/interview/05-sharding-replication-cap-nosql.md",
     "DB/interview/03-lock-deadlock.md",
     "DB/interview/02-index.md",
-    "DB/interview/01-transaction-acid-isolation.md",
+    "BE/restapi.md",
     "DB/database-interview.md",
     "DB/interview",
-    "BE/restapi.md",
     "DB/postgresql/instructions.md",
     "DB/postgresql/postgresql.md",
     "DB/prisma/instructions.md",
@@ -212,14 +213,8 @@
     "FE-APP/Untitled.base",
     "FE-APP/core.md",
     "DEVOPS/docker 강좌/index.md",
-    "README.md",
-    "FE-WEB/html+css+browser/responsive-web.md",
     "BE",
     "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
-    "FE-APP/animation.md",
-    "FE-APP/debugging.md",
-    "FE-APP/README.md",
-    "FE-APP/Styling.md",
     "DEVOPS/docker 강좌",
     "DEVOPS",
     "Untitled 2.base",
