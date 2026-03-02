@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -183,6 +184,12 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DB/images/lock-types.svg",
+    "DB/images/deadlock.svg",
+    "DB/images/transaction-acid.svg",
+    "DB/images/isolation-levels.svg",
+    "DB/images/btree-structure.svg",
+    "DB/01-transaction-acid-isolation.md",
     "DEVOPS/docker/images",
     "DB/images",
     "DB/02-index.md",
@@ -196,7 +203,6 @@
     "DB/05-sharding-replication-cap-nosql.md",
     "DB/04-join-n1-connection-pool.md",
     "DB/03-lock-deadlock.md",
-    "DB/01-transaction-acid-isolation.md",
     "DEVOPS/docker-interview.md",
     "DB/interview/04-join-n1-connection-pool.md",
     "DB/interview/05-sharding-replication-cap-nosql.md",
@@ -222,13 +228,8 @@
     "BE",
     "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
     "DEVOPS/docker 강좌",
-    "DEVOPS",
     "ETC/Pasted image 20250712155218.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
-    "Untitled.canvas",
-    "OS/커버이미지.png",
-    "SPRING/image.png",
-    "JAVA/java.webp",
-    "SPRING/yak-shaving.webp"
+    "Untitled.canvas"
   ]
 }
