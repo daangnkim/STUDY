@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -184,6 +183,9 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DB/02-index.md",
+    "DB/01-transaction-acid-isolation.md",
+    "DEVOPS/aws/06-lambda-api-gateway.md",
     "DEVOPS/aws/05-vpc-security-group.md",
     "DEVOPS/aws/04-rds-elasticache.md",
     "DEVOPS/aws/03-s3-cloudfront.md",
@@ -195,10 +197,8 @@
     "DB/images/transaction-acid.svg",
     "DB/images/isolation-levels.svg",
     "DB/images/btree-structure.svg",
-    "DB/01-transaction-acid-isolation.md",
     "DEVOPS/docker/images",
     "DB/images",
-    "DB/02-index.md",
     "DEVOPS/docker/05-container-vs-vm-security.md",
     "DEVOPS/docker/04-compose.md",
     "DEVOPS/docker/03-volume-network.md",
@@ -219,7 +219,6 @@
     "DB/interview",
     "DB/postgresql/instructions.md",
     "DB/postgresql/postgresql.md",
-    "DB/prisma/instructions.md",
     "DB/cover-image.png",
     "AI/빅분기/Pasted image 20250610000716.png",
     "AI/AI추적관찰노트",
