@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/database-interview.md",
+                "file": "BE/restapi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "database-interview"
+              "title": "restapi"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
-    "BE/restapi.md",
     "DB/database-interview.md",
+    "DB/interview",
+    "BE/restapi.md",
     "DB/postgresql/instructions.md",
     "DB/postgresql/postgresql.md",
     "DB/prisma/instructions.md",
@@ -221,9 +222,7 @@
     "ENGLISH/TOEIC.md",
     "Untitled 2.base",
     "FE-WEB/tanstack-query/동작원리/WIP-동작원리.md",
-    "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "Untitled 1.base",
-    "SPRING/Untitled.base",
     "ETC/Pasted image 20250712155218.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "Untitled.canvas",
