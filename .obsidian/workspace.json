@@ -11,10 +11,14 @@
             "id": "91ff07d8e679191c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DB/01-transaction-acid-isolation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "01-transaction-acid-isolation"
             }
           }
         ]
@@ -179,6 +183,9 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DEVOPS/docker/images",
+    "DB/images",
+    "DB/02-index.md",
     "DEVOPS/docker/05-container-vs-vm-security.md",
     "DEVOPS/docker/04-compose.md",
     "DEVOPS/docker/03-volume-network.md",
@@ -189,7 +196,6 @@
     "DB/05-sharding-replication-cap-nosql.md",
     "DB/04-join-n1-connection-pool.md",
     "DB/03-lock-deadlock.md",
-    "DB/02-index.md",
     "DB/01-transaction-acid-isolation.md",
     "DEVOPS/docker-interview.md",
     "DB/interview/04-join-n1-connection-pool.md",
@@ -212,13 +218,11 @@
     "AI/빅분기/Pasted image 20250610000711.png",
     "AI/빅분기/빅데이터-분석기사-개념.md",
     "AI/빅분기",
-    "AI/빅분기/용어-정리.md",
     "FE-APP/Untitled.base",
     "BE",
     "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
     "DEVOPS/docker 강좌",
     "DEVOPS",
-    "Untitled 2.base",
     "ETC/Pasted image 20250712155218.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
     "Untitled.canvas",
