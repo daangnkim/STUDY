@@ -11,10 +11,14 @@
             "id": "91ff07d8e679191c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DB/database-interview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "database-interview"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "플레임",
+                "query": "database-interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -180,6 +185,12 @@
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
     "BE/restapi.md",
+    "DB/database-interview.md",
+    "DB/postgresql/instructions.md",
+    "DB/postgresql/postgresql.md",
+    "DB/prisma/instructions.md",
+    "DB/README.md",
+    "DB/cover-image.png",
     "AI/빅분기/Pasted image 20250610000716.png",
     "AI/AI추적관찰노트/Frontend AI 수준 트래킹.md",
     "AI/AI추적관찰노트",
@@ -212,10 +223,6 @@
     "FE-WEB/tanstack-query/동작원리/WIP-동작원리.md",
     "FE-WEB/tanstack-query/onSuccess-onError-onSettled가-사라진-이유.md",
     "Untitled 1.base",
-    "ENGLISH/English Study Note.md",
-    "ENGLISH/Untitled.md",
-    "FE-WEB/tanstack-query/WIP-request-waterfall.md",
-    "FE-WEB/react-router/WIP-loader.md",
     "SPRING/Untitled.base",
     "ETC/Pasted image 20250712155218.png",
     "FE-WEB/html+css+browser/Pasted image 20250609195805.png",
@@ -223,7 +230,6 @@
     "OS/커버이미지.png",
     "SPRING/image.png",
     "JAVA/java.webp",
-    "SPRING/yak-shaving.webp",
-    "JAVA/collection/image.png"
+    "SPRING/yak-shaving.webp"
   ]
 }
