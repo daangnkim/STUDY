@@ -183,6 +183,7 @@
   },
   "active": "91ff07d8e679191c",
   "lastOpenFiles": [
+    "DB/06-database-design.md",
     "DEVOPS/aws/08-route53-cloudwatch.md",
     "DEVOPS/aws/07-sqs-sns-eventbridge.md",
     "DB/02-index.md",
@@ -217,7 +218,6 @@
     "DB/interview/03-lock-deadlock.md",
     "DB/interview/02-index.md",
     "BE/restapi.md",
-    "DB/database-interview.md",
     "DB/interview",
     "DB/cover-image.png",
     "AI/빅분기/Pasted image 20250610000716.png",
