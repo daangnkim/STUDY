@@ -180,11 +180,12 @@ public void businessLogic() {
 
 ## 2. ACID 속성
 
+트랜잭션의 네 가지 특성으로 ACID가 존재한다.
 ACID는 트랜잭션이 안전하게 수행되기 위한 4가지 핵심 속성이다.
 
 ### A - Atomicity (원자성)
 
-트랜잭션의 모든 연산이 **완전히 실행되거나 전혀 실행되지 않아야** 한다.
+트랜잭션의 모든 연산이 **완전히 실행되거나 전혀 실행되지 않아야** 한다. (All or Nothing)
 
 ```java
 @Transactional
