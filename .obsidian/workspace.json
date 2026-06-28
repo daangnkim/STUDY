@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "32430211c7108746",
+        "id": "0824e5714edf7fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa11e43bd7f77ba",
+            "id": "e87341dc9f3ed20a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "FE-WEB/cover-image.png"
+              },
+              "icon": "lucide-image",
+              "title": "cover-image"
+            }
+          },
+          {
+            "id": "5b6626079b54fce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/core/06-database-design/06-database-design.md",
+                "file": "FE-WEB/전역 상태 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-database-design"
+              "title": "전역 상태 관리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "database-interview",
+                "query": "servlet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +74,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -167,69 +179,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fa11e43bd7f77ba",
+  "active": "5b6626079b54fce7",
   "lastOpenFiles": [
-    "DB/core/01-transaction-acid-isolation/01-transaction-acid-isolation.md",
-    "DB/core/01-transaction-acid-isolation/무제.md",
-    "DEVOPS/docker/01-image-container-dockerfile.md",
-    "DEVOPS/docker/02-layer-cache-multistage.md",
+    "SPRING/Untitled.base",
+    "NETWORK/ssh-protocol/ssh-deep-dive.md",
+    "FE-APP/Untitled.base",
+    "DEVOPS/docker 강좌/index.md",
+    "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
     "DEVOPS/docker/05-container-vs-vm-security.md",
     "DEVOPS/docker/04-compose.md",
     "DEVOPS/docker/03-volume-network.md",
-    "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
-    "DB/core/01-transaction-acid-isolation/Pasted image 20260302200538.png",
-    "NETWORK/ssh-protocol/WIP-index.md",
-    "NETWORK/auth/session-vs-token.md",
-    "NETWORK/ssh-protocol/ssh-deep-dive.md",
-    "DB/core/06-database-design/06-database-design.md",
-    "DB/core/06-database-design",
-    "DB/core/01-transaction-acid-isolation",
-    "DB/postgresql/instructions.md",
-    "DB/core",
+    "DEVOPS/docker/02-layer-cache-multistage.md",
+    "DEVOPS/docker/01-image-container-dockerfile.md",
     "DEVOPS/aws/08-route53-cloudwatch.md",
     "DEVOPS/aws/07-sqs-sns-eventbridge.md",
-    "DB/core/02-index.md",
     "DEVOPS/aws/06-lambda-api-gateway.md",
     "DEVOPS/aws/05-vpc-security-group.md",
     "DEVOPS/aws/04-rds-elasticache.md",
     "DEVOPS/aws/03-s3-cloudfront.md",
     "DEVOPS/aws/02-ec2-elb-asg.md",
     "DEVOPS/aws/01-global-infrastructure-iam.md",
-    "DEVOPS/aws",
-    "DB/images/lock-types.svg",
-    "DB/images/deadlock.svg",
-    "DB/images/transaction-acid.svg",
-    "DB/images/isolation-levels.svg",
-    "DB/images/btree-structure.svg",
-    "DEVOPS/docker/images",
-    "DB/images",
+    "DEVOPS/docker 강좌",
     "DEVOPS/docker",
-    "DB/interview/01-transaction-acid-isolation.md",
+    "DEVOPS/aws",
+    "DEVOPS",
+    "DB/core/06-database-design/06-database-design.md",
+    "DB/core/01-transaction-acid-isolation/Pasted image 20260302200538.png",
+    "DB/core/01-transaction-acid-isolation/01-transaction-acid-isolation.md",
+    "DB/core/06-database-design",
     "DB/core/05-sharding-replication-cap-nosql.md",
     "DB/core/04-join-n1-connection-pool.md",
     "DB/core/03-lock-deadlock.md",
-    "DEVOPS/docker-interview.md",
-    "DB/interview",
-    "DB/cover-image.png",
+    "DB/core/02-index.md",
+    "DB/core/01-transaction-acid-isolation",
+    "DB/core",
+    "BE/restapi.md",
+    "BE",
+    "AI/빅분기/용어-정리.md",
+    "AI/빅분기/빅데이터-분석기사-실기-문제풀이.md",
+    "AI/빅분기/빅데이터-분석기사-시험-전-읽을 것.md",
     "AI/빅분기/Pasted image 20250610000716.png",
-    "AI/AI추적관찰노트",
-    "AI/Untitled.base",
     "AI/빅분기/Pasted image 20250610000711.png",
-    "Untitled.canvas"
+    "AI/빅분기",
+    "FE-WEB/cover-image.png",
+    "SPRING/image.png",
+    "JAVA/java.webp",
+    "SPRING/yak-shaving.webp",
+    "ETC/Pasted image 20250712155218.png",
+    "JAVA/collection/image.png"
   ]
 }
