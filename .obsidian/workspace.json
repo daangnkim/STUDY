@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32430211c7108746",
+        "id": "653e8b1dce208905",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa11e43bd7f77ba",
+            "id": "e2b35d1041c6add2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/core/06-database-design/06-database-design.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06-database-design"
+              "title": "새 탭"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -182,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fa11e43bd7f77ba",
+  "active": "e2b35d1041c6add2",
   "lastOpenFiles": [
+    "DB/core/06-database-design/06-database-design.md",
     "DB/core/01-transaction-acid-isolation/01-transaction-acid-isolation.md",
     "DB/core/01-transaction-acid-isolation/무제.md",
     "DEVOPS/docker/01-image-container-dockerfile.md",
@@ -196,7 +192,6 @@
     "NETWORK/ssh-protocol/WIP-index.md",
     "NETWORK/auth/session-vs-token.md",
     "NETWORK/ssh-protocol/ssh-deep-dive.md",
-    "DB/core/06-database-design/06-database-design.md",
     "DB/core/06-database-design",
     "DB/core/01-transaction-acid-isolation",
     "DB/postgresql/instructions.md",
