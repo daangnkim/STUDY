@@ -1,6 +1,9 @@
 # Metro Bundler
 https://docs.expo.dev/debugging/tools/
 
+## watchman
+https://stackoverflow.com/questions/42235799/what-is-the-use-of-watchman-for-react-native
+
 # hermes
 https://docs.expo.dev/guides/using-hermes/
 
