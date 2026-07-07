@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c526ea69aa7d3a",
+        "id": "1789e1c33d06c9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "20c7748b06920204",
+            "id": "b5159a21e4011d60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FE-APP/core.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "core"
+              "title": "새 탭"
             }
           }
         ]
@@ -180,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20c7748b06920204",
+  "active": "b5159a21e4011d60",
   "lastOpenFiles": [
+    "FE-APP/core.md",
     "FE-APP/term.md",
     "FE-APP/Styling.md",
     "FE-APP/Untitled.base",
