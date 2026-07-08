@@ -1,7 +1,6 @@
 # Metro Bundler
 https://docs.expo.dev/debugging/tools/
-https://metrobundler.dev/
-
+https://metrobundler.dev/docs/concepts
 
 ## watchman
 https://stackoverflow.com/questions/42235799/what-is-the-use-of-watchman-for-react-native
