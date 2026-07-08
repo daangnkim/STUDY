@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE-APP/android/bitmap-핸들링.md",
+                "file": "FE-APP/android/bitmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bitmap-핸들링"
+              "title": "bitmap"
             }
           }
         ],
@@ -200,7 +200,7 @@
   "active": "38758ba427b467f6",
   "lastOpenFiles": [
     "FE-APP/android/core.md",
-    "FE-APP/android/bitmap-핸들링.md",
+    "FE-APP/android/bitmap.md",
     "FE-APP/core.md",
     "FE-APP/animation.md",
     "FE-APP/웹뷰-인스턴스-리소스-관리.md",
