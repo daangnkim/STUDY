@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f89c110880cacba",
+        "id": "06650f5bd5e6dfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d36528b26bc021f",
+            "id": "c89f1395602c6cd4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -178,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d36528b26bc021f",
+  "active": "c89f1395602c6cd4",
   "lastOpenFiles": [
     "FE-APP/android/core.md",
     "FE-APP/android/bitmap.md",
