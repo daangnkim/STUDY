@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06650f5bd5e6dfb7",
+        "id": "df30d89c40aa7bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "c89f1395602c6cd4",
+            "id": "418b0ef10de19c3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c89f1395602c6cd4",
+  "active": "418b0ef10de19c3c",
   "lastOpenFiles": [
     "FE-APP/android/core.md",
     "FE-APP/android/bitmap.md",
