@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a035269aa872f56e",
+        "id": "96beef22559e8f73",
         "type": "tabs",
         "children": [
           {
-            "id": "3d61b8f50769d7b6",
+            "id": "23d0474783878156",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d61b8f50769d7b6",
+  "active": "23d0474783878156",
   "lastOpenFiles": [
     "FE-APP/debugging.md",
     "FE-APP/InteractionManager.md",
