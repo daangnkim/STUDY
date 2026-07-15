@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac74eb25865fa08f",
@@ -183,6 +184,7 @@
   },
   "active": "23d0474783878156",
   "lastOpenFiles": [
+    "FE-APP/android/Pasted image 20260715085856.png",
     "FE-APP/android/bitmap.md",
     "FE-APP/debugging.md",
     "FE-APP/InteractionManager.md",
@@ -209,7 +211,6 @@
     "DEVOPS/docker/02-layer-cache-multistage.md",
     "DEVOPS/docker/05-container-vs-vm-security.md",
     "DEVOPS/docker/04-compose.md",
-    "DEVOPS/docker/03-volume-network.md",
     "DEVOPS/docker 강좌/Pasted image 20260205223237.png",
     "DB/core/01-transaction-acid-isolation/Pasted image 20260302200538.png",
     "DB/core/06-database-design",
